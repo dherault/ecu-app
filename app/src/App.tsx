@@ -20,7 +20,6 @@ function App(props: AppPropsType) {
   return (
     <>
       
-      <CoolDiv />
       <Div data-ecu="ENpqnFQnRj:0">
         App
       </Div>
