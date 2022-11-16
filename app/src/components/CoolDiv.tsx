@@ -1,9 +1,23 @@
-import { Div } from 'ecu-client'
+/* --
+  * IMPORTS START
+-- */
+import { Div } from 'ecu'
 
-function CoolDiv(props: any) {
+/* --
+  * IMPORTS END
+-- */
+/* --
+  * TYPES START
+-- */
+type CoolDivPropsType = Record<string, never>;
+/* --
+  * TYPES END
+-- */
+
+function CoolDiv(props: CoolDivPropsType) {
   return (
-    <Div>
-      Edit me I'm famous
+    <Div data-ecu="9gQnxRPguK:0">
+      Edit me I'm famous!
     </Div>
   )
 }

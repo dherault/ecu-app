@@ -1,8 +1,8 @@
 {
-  "hash": "Um848E9n7hVtl5sddXgRfRi0xvk=",
+  "hash": "3+VOVqCsWqCAnakVdiFHR15BhQk=",
   "nodes": {
-    "UGXd0m6Tj": {
-      "address": "UGXd0m6Tj",
+    "-q-xJm48y": {
+      "address": "-q-xJm48y",
       "role": "File",
       "state": null,
       "payload": {
@@ -14,72 +14,8 @@
         "ast": null
       }
     },
-    "lW8VBQPrwd": {
-      "address": "lW8VBQPrwd",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "main",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/main.tsx",
-        "relativePath": "src/main.tsx",
-        "code": null,
-        "ast": null
-      }
-    },
-    "BdOPThR6B_": {
-      "address": "BdOPThR6B_",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "types",
-        "extension": "ts",
-        "path": "/Users/sven/dev/ecu-app/app/src/types.ts",
-        "relativePath": "src/types.ts",
-        "code": null,
-        "ast": null
-      }
-    },
-    "5xT323qfPl": {
-      "address": "5xT323qfPl",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "vite-env.d",
-        "extension": "ts",
-        "path": "/Users/sven/dev/ecu-app/app/src/vite-env.d.ts",
-        "relativePath": "src/vite-env.d.ts",
-        "code": null,
-        "ast": null
-      }
-    },
-    "uKinW4cGPK": {
-      "address": "uKinW4cGPK",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "vite.config",
-        "extension": "ts",
-        "path": "/Users/sven/dev/ecu-app/app/vite.config.ts",
-        "relativePath": "vite.config.ts",
-        "code": null,
-        "ast": null
-      }
-    },
-    "dvg542sP96": {
-      "address": "dvg542sP96",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "App",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
-        "relativePath": "src/App.tsx",
-        "exportType": "None"
-      }
-    },
-    "YZItaOvep": {
-      "address": "YZItaOvep",
+    "GTrhFgNYVK": {
+      "address": "GTrhFgNYVK",
       "role": "File",
       "state": null,
       "payload": {
@@ -91,8 +27,72 @@
         "ast": null
       }
     },
-    "hSjAaHjDZn": {
-      "address": "hSjAaHjDZn",
+    "jOeYCPdypD": {
+      "address": "jOeYCPdypD",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "main",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/main.tsx",
+        "relativePath": "src/main.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "-tpzY_H3jm": {
+      "address": "-tpzY_H3jm",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "types",
+        "extension": "ts",
+        "path": "/Users/sven/dev/ecu-app/app/src/types.ts",
+        "relativePath": "src/types.ts",
+        "code": null,
+        "ast": null
+      }
+    },
+    "psv2DKOHQ3": {
+      "address": "psv2DKOHQ3",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "vite-env.d",
+        "extension": "ts",
+        "path": "/Users/sven/dev/ecu-app/app/src/vite-env.d.ts",
+        "relativePath": "src/vite-env.d.ts",
+        "code": null,
+        "ast": null
+      }
+    },
+    "AZ4OququLp": {
+      "address": "AZ4OququLp",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "vite.config",
+        "extension": "ts",
+        "path": "/Users/sven/dev/ecu-app/app/vite.config.ts",
+        "relativePath": "vite.config.ts",
+        "code": null,
+        "ast": null
+      }
+    },
+    "gGQM54UYhq": {
+      "address": "gGQM54UYhq",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "App",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
+        "relativePath": "src/App.tsx",
+        "exportType": "None"
+      }
+    },
+    "9gQnxRPguK": {
+      "address": "9gQnxRPguK",
       "role": "Function",
       "state": null,
       "payload": {
@@ -106,49 +106,49 @@
   },
   "edges": [
     [
-      "UGXd0m6Tj",
+      "-q-xJm48y",
       "ImportsModule",
       "ecu"
     ],
     [
-      "UGXd0m6Tj",
+      "-q-xJm48y",
       "DeclaresFunction",
-      "dvg542sP96"
+      "gGQM54UYhq"
     ],
     [
-      "lW8VBQPrwd",
+      "GTrhFgNYVK",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "GTrhFgNYVK",
+      "DeclaresFunction",
+      "9gQnxRPguK"
+    ],
+    [
+      "jOeYCPdypD",
       "ImportsModule",
       "react-dom/client"
     ],
     [
-      "lW8VBQPrwd",
+      "jOeYCPdypD",
       "ImportsModule",
       "ecu"
     ],
     [
-      "lW8VBQPrwd",
+      "jOeYCPdypD",
       "ImportsFile",
-      "UGXd0m6Tj"
+      "-q-xJm48y"
     ],
     [
-      "uKinW4cGPK",
+      "AZ4OququLp",
       "ImportsModule",
       "vite"
     ],
     [
-      "uKinW4cGPK",
+      "AZ4OququLp",
       "ImportsModule",
       "@vitejs/plugin-react"
-    ],
-    [
-      "YZItaOvep",
-      "ImportsModule",
-      "ecu-client"
-    ],
-    [
-      "YZItaOvep",
-      "DeclaresFunction",
-      "hSjAaHjDZn"
     ]
   ]
 }

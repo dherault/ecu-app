@@ -3,7 +3,7 @@
   "name": "ecu-app",
   "scripts": {
     "start": "npm run dev",
-    "serve": "nodemon --watch node_modules/ecu/node_modules/ecu-server --ext js,json --exec \"ecu serve\"",
+    "serve": "nodemon --watch node_modules/ecu/node_modules/ecu-server/build --ext js,json --exec \"ecu serve\"",
     "dev": "(cd app && npm run dev)"
   },
   "devDependencies": {
