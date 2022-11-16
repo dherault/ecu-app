@@ -1,2 +1,6 @@
 [
+  {
+    "branch": "undo-1668642102623",
+    "message": "[ecu] Delete component App in App"
+  }
 ]
