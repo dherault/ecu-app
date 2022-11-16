@@ -24,6 +24,7 @@ function App(props: AppPropsType) {
       </Div>
       <CoolDiv />
       <CoolDiv />
+      <CoolDiv />
     </>
   )
 }
