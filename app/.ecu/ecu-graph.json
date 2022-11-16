@@ -1,8 +1,8 @@
 {
-  "hash": "E2vRRzI6iik1Bjh1vzkwG1T4M0A=",
+  "hash": "Um848E9n7hVtl5sddXgRfRi0xvk=",
   "nodes": {
-    "J41360UO8": {
-      "address": "J41360UO8",
+    "UGXd0m6Tj": {
+      "address": "UGXd0m6Tj",
       "role": "File",
       "state": null,
       "payload": {
@@ -14,8 +14,8 @@
         "ast": null
       }
     },
-    "vB4GH9Gtj": {
-      "address": "vB4GH9Gtj",
+    "lW8VBQPrwd": {
+      "address": "lW8VBQPrwd",
       "role": "File",
       "state": null,
       "payload": {
@@ -27,8 +27,8 @@
         "ast": null
       }
     },
-    "yC4Bvvl5TZ": {
-      "address": "yC4Bvvl5TZ",
+    "BdOPThR6B_": {
+      "address": "BdOPThR6B_",
       "role": "File",
       "state": null,
       "payload": {
@@ -40,8 +40,8 @@
         "ast": null
       }
     },
-    "hX0_YQSin_": {
-      "address": "hX0_YQSin_",
+    "5xT323qfPl": {
+      "address": "5xT323qfPl",
       "role": "File",
       "state": null,
       "payload": {
@@ -53,8 +53,8 @@
         "ast": null
       }
     },
-    "X7Cz-mTLyA": {
-      "address": "X7Cz-mTLyA",
+    "uKinW4cGPK": {
+      "address": "uKinW4cGPK",
       "role": "File",
       "state": null,
       "payload": {
@@ -66,8 +66,8 @@
         "ast": null
       }
     },
-    "EyIwMUyfwz": {
-      "address": "EyIwMUyfwz",
+    "dvg542sP96": {
+      "address": "dvg542sP96",
       "role": "Function",
       "state": null,
       "payload": {
@@ -77,43 +77,78 @@
         "relativePath": "src/App.tsx",
         "exportType": "None"
       }
+    },
+    "YZItaOvep": {
+      "address": "YZItaOvep",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "CoolDiv",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDiv.tsx",
+        "relativePath": "src/components/CoolDiv.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "hSjAaHjDZn": {
+      "address": "hSjAaHjDZn",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "CoolDiv",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDiv.tsx",
+        "relativePath": "src/components/CoolDiv.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
     [
-      "J41360UO8",
+      "UGXd0m6Tj",
       "ImportsModule",
       "ecu"
     ],
     [
-      "J41360UO8",
+      "UGXd0m6Tj",
       "DeclaresFunction",
-      "EyIwMUyfwz"
+      "dvg542sP96"
     ],
     [
-      "vB4GH9Gtj",
+      "lW8VBQPrwd",
       "ImportsModule",
       "react-dom/client"
     ],
     [
-      "vB4GH9Gtj",
+      "lW8VBQPrwd",
       "ImportsModule",
       "ecu"
     ],
     [
-      "vB4GH9Gtj",
+      "lW8VBQPrwd",
       "ImportsFile",
-      "J41360UO8"
+      "UGXd0m6Tj"
     ],
     [
-      "X7Cz-mTLyA",
+      "uKinW4cGPK",
       "ImportsModule",
       "vite"
     ],
     [
-      "X7Cz-mTLyA",
+      "uKinW4cGPK",
       "ImportsModule",
       "@vitejs/plugin-react"
+    ],
+    [
+      "YZItaOvep",
+      "ImportsModule",
+      "ecu-client"
+    ],
+    [
+      "YZItaOvep",
+      "DeclaresFunction",
+      "hSjAaHjDZn"
     ]
   ]
 }
