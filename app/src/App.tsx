@@ -19,7 +19,7 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-      <CoolDiv />
+      
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />
