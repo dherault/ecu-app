@@ -1,8 +1,8 @@
-import { Div } from 'ecu-client'
+import { Div } from 'ecu'
 
 function CoolDiv(props: any) {
   return (
-    <Div>
+    <Div data-ecu="84CK_jYJ7D:0">
       Edit me I'm famous
     </Div>
   )

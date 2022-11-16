@@ -16,7 +16,7 @@ type AppPropsType = Record<string, never>;
 
 function App(props: AppPropsType) {
   return (
-    <Div data-ecu="dvg542sP96:0">
+    <Div data-ecu="EIDqsR5WI:0">
       Edit me I'm famous3
     </Div>
   )
