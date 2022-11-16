@@ -2,5 +2,9 @@
   {
     "branch": "undo-1668640570090",
     "message": "[ecu] Delete component App in App"
+  },
+  {
+    "branch": "undo-1668640666189",
+    "message": "[ecu] Add component CoolDiv to App"
   }
 ]
