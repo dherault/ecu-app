@@ -9,7 +9,7 @@ import { Div } from 'ecu'
 /* --
   * TYPES START
 -- */
-type AppPropsType = Record<string, never>
+type AppPropsType = Record<string, never>;
 /* --
   * TYPES END
 -- */

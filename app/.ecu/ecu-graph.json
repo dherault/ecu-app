@@ -1,0 +1,119 @@
+{
+  "hash": "E2vRRzI6iik1Bjh1vzkwG1T4M0A=",
+  "nodes": {
+    "J41360UO8": {
+      "address": "J41360UO8",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "App",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
+        "relativePath": "src/App.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "vB4GH9Gtj": {
+      "address": "vB4GH9Gtj",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "main",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/main.tsx",
+        "relativePath": "src/main.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "yC4Bvvl5TZ": {
+      "address": "yC4Bvvl5TZ",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "types",
+        "extension": "ts",
+        "path": "/Users/sven/dev/ecu-app/app/src/types.ts",
+        "relativePath": "src/types.ts",
+        "code": null,
+        "ast": null
+      }
+    },
+    "hX0_YQSin_": {
+      "address": "hX0_YQSin_",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "vite-env.d",
+        "extension": "ts",
+        "path": "/Users/sven/dev/ecu-app/app/src/vite-env.d.ts",
+        "relativePath": "src/vite-env.d.ts",
+        "code": null,
+        "ast": null
+      }
+    },
+    "X7Cz-mTLyA": {
+      "address": "X7Cz-mTLyA",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "vite.config",
+        "extension": "ts",
+        "path": "/Users/sven/dev/ecu-app/app/vite.config.ts",
+        "relativePath": "vite.config.ts",
+        "code": null,
+        "ast": null
+      }
+    },
+    "EyIwMUyfwz": {
+      "address": "EyIwMUyfwz",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "App",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
+        "relativePath": "src/App.tsx",
+        "exportType": "None"
+      }
+    }
+  },
+  "edges": [
+    [
+      "J41360UO8",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "J41360UO8",
+      "DeclaresFunction",
+      "EyIwMUyfwz"
+    ],
+    [
+      "vB4GH9Gtj",
+      "ImportsModule",
+      "react-dom/client"
+    ],
+    [
+      "vB4GH9Gtj",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "vB4GH9Gtj",
+      "ImportsFile",
+      "J41360UO8"
+    ],
+    [
+      "X7Cz-mTLyA",
+      "ImportsModule",
+      "vite"
+    ],
+    [
+      "X7Cz-mTLyA",
+      "ImportsModule",
+      "@vitejs/plugin-react"
+    ]
+  ]
+}
