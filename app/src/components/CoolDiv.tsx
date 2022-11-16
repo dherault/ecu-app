@@ -13,8 +13,8 @@ type CoolDivPropsType = Record<string, never>;
 
 function CoolDiv(props: CoolDivPropsType) {
   return (
-    <Div data-ecu="84CK_jYJ7D:0">
-      Edit me I'm famous
+    <Div data-ecu="lirsOZhUUN:0">
+      Edit me I'm famous!
     </Div>
   )
 }
