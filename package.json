@@ -4,7 +4,7 @@
   "scripts": {
     "start": "npm run dev",
     "serve": "nodemon --watch node_modules/ecu/node_modules/ecu-server/build --ext js,json --exec \"ecu serve\"",
-    "dev": "(cd app && npm run dev)"
+    "dev": "nodemon --watch app/node_modules/ecu/node_modules/ecu-client/build --ext js,json --exec \"(cd app && npm run dev)\""
   },
   "devDependencies": {
     "ecu": "^1.0.23",
