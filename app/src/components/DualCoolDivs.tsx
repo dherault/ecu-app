@@ -1,7 +1,9 @@
+import { Div } from 'ecu'
+
+import CoolDiv from './CoolDiv'
 /* --
 * IMPORTS START
 -- */
-import { Div } from 'ecu'
 
 /* --
 * IMPORTS END
@@ -17,9 +19,12 @@ type DualCoolDivsPropsType = Record<string, never>;
 
 function DualCoolDivs(props: DualCoolDivsPropsType) {
   return (
-    <Div data-ecu="h53m0nrgvj:0">
-      Edit me I'm famous!
-    </Div>
+    <>
+      <CoolDiv />
+      <Div data-ecu="h53m0nrgvj:0">
+        Edit me I'm famous!
+      </Div>
+    </>
   )
 }
 
