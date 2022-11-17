@@ -20,7 +20,7 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="liPz3SHBxY:0">Then double click here</Text>
+      <Text data-ecu="liPz3SHBxY:0">First double click here</Text>
       
       
       
