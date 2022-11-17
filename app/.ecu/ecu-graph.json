@@ -1,5 +1,5 @@
 {
-  "hash": "BNHCxKhpnmPbqXATPSuQ2LmIBzQ=",
+  "hash": "myF78wOWes6GkmzqPt1nX6x6ti0=",
   "nodes": {
     "bnU9NyOls": {
       "address": "bnU9NyOls",
@@ -127,6 +127,31 @@
         "relativePath": "src/components/DualCoolDivs.tsx",
         "exportType": "None"
       }
+    },
+    "jGnRbXAWK": {
+      "address": "jGnRbXAWK",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "Test1",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/Test1.tsx",
+        "relativePath": "src/components/Test1.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "F_Jh-Sx9YF": {
+      "address": "F_Jh-Sx9YF",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "Test1",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/Test1.tsx",
+        "relativePath": "src/components/Test1.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -189,6 +214,16 @@
       "uhmOfNfCu",
       "DeclaresFunction",
       "h53m0nrgvj"
+    ],
+    [
+      "jGnRbXAWK",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "jGnRbXAWK",
+      "DeclaresFunction",
+      "F_Jh-Sx9YF"
     ]
   ]
 }
