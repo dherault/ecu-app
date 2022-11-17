@@ -20,13 +20,11 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-      
+
       <CoolDiv />
-      
-      <Div data-ecu="ENpqnFQnRj:0">
+      <Div data-ecu="-XSZQU6T7Y:0">
         App
       </Div>
-      
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />

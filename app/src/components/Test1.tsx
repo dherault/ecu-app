@@ -17,7 +17,7 @@ type Test1PropsType = Record<string, never>;
 
 function Test1(props: Test1PropsType) {
   return (
-    <Div data-ecu="F_Jh-Sx9YF:0">
+    <Div data-ecu="B8sL4H72Qs:0">
       Edit me I'm famous!
     </Div>
   )

@@ -21,9 +21,7 @@ function DualCoolDivs(props: DualCoolDivsPropsType) {
   return (
     <>
       <CoolDiv />
-      <Div data-ecu="h53m0nrgvj:0">
-        Edit me I'm famous!
-      </Div>
+      <CoolDiv />
     </>
   )
 }
