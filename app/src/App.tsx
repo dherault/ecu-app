@@ -24,7 +24,7 @@ function App(props: AppPropsType) {
         Edit me I'm a text!
       </Text>
       <CoolDiv />
-      <Text data-ecu="p3woPDZQq8:1">App!</Text>
+      <Text data-ecu="p3woPDZQq8:1">App!1</Text>
       <DualCoolDivs />
     </>
   )
