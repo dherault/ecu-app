@@ -21,6 +21,7 @@ function Test3(props: Test3PropsType) {
   return (
     <>
       <CoolDiv />
+      <CoolDiv />
       <Div data-ecu="WXh9RT1N2I:0">
         Edit me I'm famous!
       </Div>
