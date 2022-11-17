@@ -20,7 +20,7 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="_D_wClNl0v:0">
+      <Text data-ecu="liPz3SHBxY:0">
         Edit me I'm a text!
       </Text>
       <CoolDiv />
@@ -28,7 +28,8 @@ function App(props: AppPropsType) {
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />
-      <Text data-ecu="_D_wClNl0v:1">App!</Text>
+      <CoolDiv />
+      <Text data-ecu="liPz3SHBxY:1">App!</Text>
       <DualCoolDivs />
     </>
   )
