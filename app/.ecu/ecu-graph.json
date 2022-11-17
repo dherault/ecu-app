@@ -1,5 +1,5 @@
 {
-  "hash": "Iu+nhbk3WnhWJ0h6fHz9S+MuW7E=",
+  "hash": "BNHCxKhpnmPbqXATPSuQ2LmIBzQ=",
   "nodes": {
     "bnU9NyOls": {
       "address": "bnU9NyOls",
@@ -102,6 +102,31 @@
         "relativePath": "src/components/CoolDiv.tsx",
         "exportType": "None"
       }
+    },
+    "uhmOfNfCu": {
+      "address": "uhmOfNfCu",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "DualCoolDivs",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/DualCoolDivs.tsx",
+        "relativePath": "src/components/DualCoolDivs.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "h53m0nrgvj": {
+      "address": "h53m0nrgvj",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "DualCoolDivs",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/DualCoolDivs.tsx",
+        "relativePath": "src/components/DualCoolDivs.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -154,6 +179,16 @@
       "TjDvwUWTvS",
       "ImportsModule",
       "@vitejs/plugin-react"
+    ],
+    [
+      "uhmOfNfCu",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "uhmOfNfCu",
+      "DeclaresFunction",
+      "h53m0nrgvj"
     ]
   ]
 }
