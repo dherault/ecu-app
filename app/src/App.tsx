@@ -27,6 +27,7 @@ function App(props: AppPropsType) {
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />
+      <CoolDiv />
       <Text data-ecu="_D_wClNl0v:1">App!</Text>
       <DualCoolDivs />
     </>
