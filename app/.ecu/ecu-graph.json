@@ -1,5 +1,5 @@
 {
-  "hash": "3sT+T3TPUZyQbq8rZOStrRuJTf0=",
+  "hash": "rb4vbLKAp+8sDXjiHuhh4mKbjhE=",
   "nodes": {
     "bnU9NyOls": {
       "address": "bnU9NyOls",
@@ -177,6 +177,31 @@
         "relativePath": "src/components/Test2.tsx",
         "exportType": "None"
       }
+    },
+    "ECWrfqELA": {
+      "address": "ECWrfqELA",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "Test3",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/Test3.tsx",
+        "relativePath": "src/components/Test3.tsx",
+        "code": null,
+        "ast": null
+      }
+    },
+    "WXh9RT1N2I": {
+      "address": "WXh9RT1N2I",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "Test3",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/Test3.tsx",
+        "relativePath": "src/components/Test3.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -259,6 +284,16 @@
       "vIa9rEnjb",
       "DeclaresFunction",
       "99hbkNIdIZ"
+    ],
+    [
+      "ECWrfqELA",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "ECWrfqELA",
+      "DeclaresFunction",
+      "WXh9RT1N2I"
     ]
   ]
 }
