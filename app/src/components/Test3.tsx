@@ -1,7 +1,9 @@
+import { Div } from 'ecu'
+
+import CoolDiv from './CoolDiv'
 /* --
 * IMPORTS START
 -- */
-import { Div } from 'ecu'
 
 /* --
 * IMPORTS END
@@ -17,9 +19,12 @@ type Test3PropsType = Record<string, never>;
 
 function Test3(props: Test3PropsType) {
   return (
-    <Div data-ecu="WXh9RT1N2I:0">
-      Edit me I'm famous!
-    </Div>
+    <>
+      <CoolDiv />
+      <Div data-ecu="WXh9RT1N2I:0">
+        Edit me I'm famous!
+      </Div>
+    </>
   )
 }
 
