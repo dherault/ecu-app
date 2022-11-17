@@ -1,5 +1,6 @@
 import { Div } from 'ecu'
 
+import DualCoolDivs from './components/DualCoolDivs'
 import CoolDiv from './components/CoolDiv'
 /* --
   * IMPORTS START
@@ -30,6 +31,7 @@ function App(props: AppPropsType) {
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />
+      <DualCoolDivs />
     </>
   )
 }

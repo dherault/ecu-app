@@ -1,5 +1,7 @@
 import { Div } from 'ecu'
 
+import DualCoolDivs from './DualCoolDivs'
+
 /* --
   * IMPORTS END
 -- */
