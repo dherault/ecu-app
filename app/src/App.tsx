@@ -1,10 +1,10 @@
+/* --
+  * IMPORTS START
+-- */
 import { Text } from 'ecu'
 
 import DualCoolDivs from './components/DualCoolDivs'
 import CoolDiv from './components/CoolDiv'
-/* --
-  * IMPORTS START
--- */
 
 /* --
   * IMPORTS END
@@ -20,11 +20,11 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="p3woPDZQq8:0">
+      <Text data-ecu="_D_wClNl0v:0">
         Edit me I'm a text!
       </Text>
       <CoolDiv />
-      <Text data-ecu="p3woPDZQq8:1">App!</Text>
+      <Text data-ecu="_D_wClNl0v:1">App!!</Text>
       <DualCoolDivs />
     </>
   )
