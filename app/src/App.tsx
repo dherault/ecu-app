@@ -25,7 +25,7 @@ function App(props: AppPropsType) {
       <Div data-ecu="ENpqnFQnRj:0">
         App
       </Div>
-      <CoolDiv />
+      
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />
