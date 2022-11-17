@@ -26,7 +26,7 @@ function App(props: AppPropsType) {
       
       
       
-      <CoolDiv />
+      
       <CoolDiv />
       
   <Text data-ecu="liPz3SHBxY:1">App!!</Text>
