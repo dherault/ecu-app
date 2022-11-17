@@ -1,8 +1,8 @@
 {
-  "hash": "B5N6xU2viG3MxTAaIBzaA1nFRK8=",
+  "hash": "0iWEoDkzGfkLfqHfZ92EjKen+Yo=",
   "nodes": {
-    "SAmfjNy4Q": {
-      "address": "SAmfjNy4Q",
+    "XScK4PfIK": {
+      "address": "XScK4PfIK",
       "role": "File",
       "state": null,
       "payload": {
@@ -14,8 +14,8 @@
         "ast": null
       }
     },
-    "1eouB9HbZQ": {
-      "address": "1eouB9HbZQ",
+    "oeZVRRTVx1": {
+      "address": "oeZVRRTVx1",
       "role": "File",
       "state": null,
       "payload": {
@@ -27,8 +27,8 @@
         "ast": null
       }
     },
-    "fBTuRfkIvB": {
-      "address": "fBTuRfkIvB",
+    "-sTDkOjQon": {
+      "address": "-sTDkOjQon",
       "role": "File",
       "state": null,
       "payload": {
@@ -40,47 +40,8 @@
         "ast": null
       }
     },
-    "b8SYq3WUlh": {
-      "address": "b8SYq3WUlh",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "Test1",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/Test1.tsx",
-        "relativePath": "src/components/Test1.tsx",
-        "code": null,
-        "ast": null
-      }
-    },
-    "7IB31e9AY8": {
-      "address": "7IB31e9AY8",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "Test2",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/Test2.tsx",
-        "relativePath": "src/components/Test2.tsx",
-        "code": null,
-        "ast": null
-      }
-    },
-    "PVFCKEohkV": {
-      "address": "PVFCKEohkV",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "Test3",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/Test3.tsx",
-        "relativePath": "src/components/Test3.tsx",
-        "code": null,
-        "ast": null
-      }
-    },
-    "KRP9Z7-7qH": {
-      "address": "KRP9Z7-7qH",
+    "U0uQpRtNRB": {
+      "address": "U0uQpRtNRB",
       "role": "File",
       "state": null,
       "payload": {
@@ -92,8 +53,8 @@
         "ast": null
       }
     },
-    "TLG3BRkRdL": {
-      "address": "TLG3BRkRdL",
+    "WJW4mfoKdd": {
+      "address": "WJW4mfoKdd",
       "role": "File",
       "state": null,
       "payload": {
@@ -105,8 +66,8 @@
         "ast": null
       }
     },
-    "0pVwGtyae6": {
-      "address": "0pVwGtyae6",
+    "VCaPviJbH0": {
+      "address": "VCaPviJbH0",
       "role": "File",
       "state": null,
       "payload": {
@@ -118,8 +79,8 @@
         "ast": null
       }
     },
-    "Or70XM_l5h": {
-      "address": "Or70XM_l5h",
+    "LYOWYvtQms": {
+      "address": "LYOWYvtQms",
       "role": "File",
       "state": null,
       "payload": {
@@ -131,8 +92,8 @@
         "ast": null
       }
     },
-    "-XSZQU6T7Y": {
-      "address": "-XSZQU6T7Y",
+    "p3woPDZQq8": {
+      "address": "p3woPDZQq8",
       "role": "Function",
       "state": null,
       "payload": {
@@ -143,8 +104,8 @@
         "exportType": "None"
       }
     },
-    "wEHd4JClOX": {
-      "address": "wEHd4JClOX",
+    "nBzFJpx6dr": {
+      "address": "nBzFJpx6dr",
       "role": "Function",
       "state": null,
       "payload": {
@@ -155,8 +116,8 @@
         "exportType": "None"
       }
     },
-    "UqBQ9dZD03": {
-      "address": "UqBQ9dZD03",
+    "vrCl2iIq8o": {
+      "address": "vrCl2iIq8o",
       "role": "Function",
       "state": null,
       "payload": {
@@ -166,152 +127,76 @@
         "relativePath": "src/components/DualCoolDivs.tsx",
         "exportType": "None"
       }
-    },
-    "B8sL4H72Qs": {
-      "address": "B8sL4H72Qs",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "Test1",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/Test1.tsx",
-        "relativePath": "src/components/Test1.tsx",
-        "exportType": "None"
-      }
-    },
-    "sXJ8el-HZB": {
-      "address": "sXJ8el-HZB",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "Test2",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/Test2.tsx",
-        "relativePath": "src/components/Test2.tsx",
-        "exportType": "None"
-      }
-    },
-    "5c9JMNjqS2": {
-      "address": "5c9JMNjqS2",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "Test3",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/Test3.tsx",
-        "relativePath": "src/components/Test3.tsx",
-        "exportType": "None"
-      }
     }
   },
   "edges": [
     [
-      "SAmfjNy4Q",
+      "XScK4PfIK",
       "ImportsModule",
       "ecu"
     ],
     [
-      "SAmfjNy4Q",
+      "XScK4PfIK",
       "ImportsFile",
-      "fBTuRfkIvB"
+      "-sTDkOjQon"
     ],
     [
-      "SAmfjNy4Q",
+      "XScK4PfIK",
       "ImportsFile",
-      "1eouB9HbZQ"
+      "oeZVRRTVx1"
     ],
     [
-      "SAmfjNy4Q",
+      "XScK4PfIK",
       "DeclaresFunction",
-      "-XSZQU6T7Y"
+      "p3woPDZQq8"
     ],
     [
-      "1eouB9HbZQ",
+      "oeZVRRTVx1",
       "ImportsModule",
       "ecu"
     ],
     [
-      "1eouB9HbZQ",
+      "oeZVRRTVx1",
+      "DeclaresFunction",
+      "nBzFJpx6dr"
+    ],
+    [
+      "-sTDkOjQon",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "-sTDkOjQon",
       "ImportsFile",
-      "fBTuRfkIvB"
+      "oeZVRRTVx1"
     ],
     [
-      "1eouB9HbZQ",
+      "-sTDkOjQon",
       "DeclaresFunction",
-      "wEHd4JClOX"
+      "vrCl2iIq8o"
     ],
     [
-      "fBTuRfkIvB",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "fBTuRfkIvB",
-      "ImportsFile",
-      "1eouB9HbZQ"
-    ],
-    [
-      "fBTuRfkIvB",
-      "DeclaresFunction",
-      "UqBQ9dZD03"
-    ],
-    [
-      "b8SYq3WUlh",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "b8SYq3WUlh",
-      "DeclaresFunction",
-      "B8sL4H72Qs"
-    ],
-    [
-      "7IB31e9AY8",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "7IB31e9AY8",
-      "DeclaresFunction",
-      "sXJ8el-HZB"
-    ],
-    [
-      "PVFCKEohkV",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "PVFCKEohkV",
-      "ImportsFile",
-      "1eouB9HbZQ"
-    ],
-    [
-      "PVFCKEohkV",
-      "DeclaresFunction",
-      "5c9JMNjqS2"
-    ],
-    [
-      "KRP9Z7-7qH",
+      "U0uQpRtNRB",
       "ImportsModule",
       "react-dom/client"
     ],
     [
-      "KRP9Z7-7qH",
+      "U0uQpRtNRB",
       "ImportsModule",
       "ecu"
     ],
     [
-      "KRP9Z7-7qH",
+      "U0uQpRtNRB",
       "ImportsFile",
-      "SAmfjNy4Q"
+      "XScK4PfIK"
     ],
     [
-      "Or70XM_l5h",
+      "LYOWYvtQms",
       "ImportsModule",
       "vite"
     ],
     [
-      "Or70XM_l5h",
+      "LYOWYvtQms",
       "ImportsModule",
       "@vitejs/plugin-react"
     ]

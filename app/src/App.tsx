@@ -1,4 +1,4 @@
-import { Div } from 'ecu'
+import { Text } from 'ecu'
 
 import DualCoolDivs from './components/DualCoolDivs'
 import CoolDiv from './components/CoolDiv'
@@ -20,15 +20,13 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-
+      <Text data-ecu="p3woPDZQq8:0">
+        Edit me I'm a text!
+      </Text>
       <CoolDiv />
-      <Div data-ecu="-XSZQU6T7Y:0">
+      <Text data-ecu="p3woPDZQq8:1">
         App
-      </Div>
-      <CoolDiv />
-      <CoolDiv />
-      <CoolDiv />
-      <CoolDiv />
+      </Text>
       <DualCoolDivs />
     </>
   )
