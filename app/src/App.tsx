@@ -23,7 +23,7 @@ function App(props: AppPropsType) {
       <Text data-ecu="liPz3SHBxY:0">
         Edit me I'm a text!
       </Text>
-      <CoolDiv />
+      
       
       
       
