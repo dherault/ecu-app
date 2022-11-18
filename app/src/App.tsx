@@ -17,19 +17,31 @@ type AppPropsType = Record<string, never>;
   * TYPES END
 -- */
 
+/* --
+  * EMOJI START
+-- */
+/*
+
+*/
+/* --
+  * EMOJI END
+-- */
+/* --
+  * DESCRIPTION START
+-- */
+/*
+The app
+*/
+/* --
+  * DESCRIPTION END
+-- */
+
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="liPz3SHBxY:0">First double click here</Text>
-      
-      
-      
-      
-      
-      
+      <Text data-ecu="skvJXUOY1y:0">First double click here</Text>
       <CoolDiv />
-      
-  <Text data-ecu="liPz3SHBxY:1">Then double click here</Text>
+      <Text data-ecu="skvJXUOY1y:1">Then double click here</Text>
       <DualCoolDivs />
     </>
   )
