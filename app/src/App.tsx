@@ -41,7 +41,7 @@ function App(props: AppPropsType) {
     <>
       <Text data-ecu="skvJXUOY1y:0">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="skvJXUOY1y:1">Then double click here</Text>
+      <Text data-ecu="skvJXUOY1y:1">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
