@@ -21,7 +21,7 @@ type AppPropsType = Record<string, never>;
   * EMOJI START
 -- */
 /*
-:+1:
+
 */
 /* --
   * EMOJI END
@@ -30,7 +30,7 @@ type AppPropsType = Record<string, never>;
   * DESCRIPTION START
 -- */
 /*
-The app, splendid!
+The app, splendid!!
 */
 /* --
   * DESCRIPTION END
@@ -39,9 +39,9 @@ The app, splendid!
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="skvJXUOY1y:0">First double click here</Text>
+      <Text data-ecu="eylwB5S7sE:0">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="skvJXUOY1y:1">Then double click here!</Text>
+      <Text data-ecu="eylwB5S7sE:1">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
