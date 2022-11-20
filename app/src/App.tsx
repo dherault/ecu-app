@@ -30,7 +30,7 @@ type AppPropsType = Record<string, never>;
   * DESCRIPTION START
 -- */
 /*
-
+It's the app, splendid!
 */
 /* --
   * DESCRIPTION END
