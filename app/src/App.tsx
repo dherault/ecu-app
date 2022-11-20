@@ -39,8 +39,7 @@ type AppPropsType = Record<string, never>;
 function App(props: AppPropsType) {
   return (
     <>
-      <CoolDiv />
-      <CoolDiv />
+      
       <CoolDiv />
       <Text data-ecu="eylwB5S7sE:0">First double click here</Text>
       <CoolDiv />
