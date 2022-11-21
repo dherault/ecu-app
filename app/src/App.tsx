@@ -41,13 +41,10 @@ function App(props: AppPropsType) {
     <>
       <Div data-ecu="bPO8puWJxw:0">
         <Text data-ecu="bPO8puWJxw:0_0">:D</Text>
-        <Text data-ecu="bPO8puWJxw:0_1" />
       </Div>
       <Text data-ecu="bPO8puWJxw:1">:)</Text>
       <Text data-ecu="bPO8puWJxw:2">
-        !!!
-
-        foo
+        !!! foo
       </Text>
       <Text data-ecu="bPO8puWJxw:3">Oh oh oh!</Text>
       <Text data-ecu="bPO8puWJxw:4">First double click here</Text>
