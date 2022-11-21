@@ -43,6 +43,8 @@ function App(props: AppPropsType) {
         <Text data-ecu="bPO8puWJxw:0_0">:D</Text>
         <Text data-ecu="bPO8puWJxw:0_1">
           Yoo
+
+          Yo
         </Text>
       </Div>
       <Text data-ecu="bPO8puWJxw:1">:)</Text>
