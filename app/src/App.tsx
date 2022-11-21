@@ -39,7 +39,7 @@ The app, splendid!
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="hxtLeUVgve:0">Edit me I'm a Text!</Text>
+      <Text data-ecu="hxtLeUVgve:0">:D</Text>
       <Text data-ecu="hxtLeUVgve:1">! :)</Text>
       <Text data-ecu="hxtLeUVgve:2">!!</Text>
       <Text data-ecu="hxtLeUVgve:3">First double click here</Text>
