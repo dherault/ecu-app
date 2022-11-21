@@ -39,15 +39,15 @@ The app, splendid!
 function App(props: AppPropsType) {
   return (
     <>
-      <Div data-ecu="dZL1Xh1Cuv:0">
-        <Text data-ecu="dZL1Xh1Cuv:0_0">:D</Text>
+      <Div data-ecu="1AZTVHUQn7:0">
+        <Text data-ecu="1AZTVHUQn7:0_0">:D</Text>
       </Div>
-      <Text data-ecu="dZL1Xh1Cuv:1">:)</Text>
-      <Text data-ecu="dZL1Xh1Cuv:2">{'1\n2'}</Text>
-      <Text data-ecu="dZL1Xh1Cuv:3" />
-      <Text data-ecu="dZL1Xh1Cuv:4">First double click here</Text>
+      <Text data-ecu="1AZTVHUQn7:1">:)</Text>
+      <Text data-ecu="1AZTVHUQn7:2">{'1\n2'}</Text>
+      <Text data-ecu="1AZTVHUQn7:3">{'Foo!\n\n'}</Text>
+      <Text data-ecu="1AZTVHUQn7:4">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="dZL1Xh1Cuv:5">Then double click here!</Text>
+      <Text data-ecu="1AZTVHUQn7:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
