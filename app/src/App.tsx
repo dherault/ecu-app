@@ -40,7 +40,7 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div data-ecu="hxtLeUVgve:0"><Text data-ecu="hxtLeUVgve:0_0">:D</Text></Div>
-      <Text data-ecu="hxtLeUVgve:1">! :)</Text>
+      <Text data-ecu="hxtLeUVgve:1">! :) :)</Text>
       <Text data-ecu="hxtLeUVgve:2">!!</Text>
       <Text data-ecu="hxtLeUVgve:3">First double click here</Text>
       <Text data-ecu="hxtLeUVgve:4">First double click here</Text>
