@@ -45,7 +45,7 @@ function App(props: AppPropsType) {
       </Div>
       <Text data-ecu="bPO8puWJxw:1">! :) :)</Text>
       <Text data-ecu="bPO8puWJxw:2">!!</Text>
-      <Text data-ecu="bPO8puWJxw:3">First double click here</Text>
+      <Text data-ecu="bPO8puWJxw:3">Oh oh oh!</Text>
       <Text data-ecu="bPO8puWJxw:4">First double click here</Text>
       <CoolDiv />
       <Text data-ecu="bPO8puWJxw:5">Then double click here!</Text>
