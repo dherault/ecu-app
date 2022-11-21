@@ -43,7 +43,7 @@ function App(props: AppPropsType) {
         <Text data-ecu="dZL1Xh1Cuv:0_0">:D</Text>
       </Div>
       <Text data-ecu="dZL1Xh1Cuv:1">:)</Text>
-      <Text data-ecu="dZL1Xh1Cuv:2">{'1\n2\n3\n4'}</Text>
+      <Text data-ecu="dZL1Xh1Cuv:2">1</Text>
       <Text data-ecu="dZL1Xh1Cuv:3">Oh oh oh!</Text>
       <Text data-ecu="dZL1Xh1Cuv:4">First double click here</Text>
       <CoolDiv />
