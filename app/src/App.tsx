@@ -41,7 +41,7 @@ function App(props: AppPropsType) {
     <>
       <Text data-ecu="hxtLeUVgve:0">! :)</Text>
       <Text data-ecu="hxtLeUVgve:1">!!</Text>
-      <Text data-ecu="hxtLeUVgve:2">!!</Text>
+      <Text data-ecu="hxtLeUVgve:2">First double click here</Text>
       <Text data-ecu="hxtLeUVgve:3">First double click here</Text>
       <CoolDiv />
       <Text data-ecu="hxtLeUVgve:4">Then double click here!</Text>
