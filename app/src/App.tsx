@@ -1,7 +1,7 @@
 /* --
   * IMPORTS START
 -- */
-import { Text } from 'ecu'
+import { Div, Text } from 'ecu'
 
 import DualCoolDivs from './components/DualCoolDivs'
 import CoolDiv from './components/CoolDiv'
@@ -39,7 +39,7 @@ The app, splendid!
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="hxtLeUVgve:0">:D</Text>
+      <Div data-ecu="hxtLeUVgve:0"><Text data-ecu="hxtLeUVgve:0_0">:D</Text></Div>
       <Text data-ecu="hxtLeUVgve:1">! :)</Text>
       <Text data-ecu="hxtLeUVgve:2">!!</Text>
       <Text data-ecu="hxtLeUVgve:3">First double click here</Text>
