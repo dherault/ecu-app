@@ -41,7 +41,7 @@ function App(props: AppPropsType) {
     <>
       <Div data-ecu="bPO8puWJxw:0">
         <Text data-ecu="bPO8puWJxw:0_0">:D</Text>
-        <Text data-ecu="bPO8puWJxw:0_1">Edit me I'm a Text!</Text>
+        <Text data-ecu="bPO8puWJxw:0_1">✌️</Text>
       </Div>
       <Text data-ecu="bPO8puWJxw:1">:)</Text>
       <Text data-ecu="bPO8puWJxw:2">!!</Text>
