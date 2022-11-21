@@ -39,10 +39,10 @@ The app, splendid!
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="CcDhNy8Bnu:0" />
-      <Text data-ecu="CcDhNy8Bnu:1">First double click here</Text>
+      <Text data-ecu="hxtLeUVgve:0">Edit me I'm a Text</Text>
+      <Text data-ecu="hxtLeUVgve:1">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="CcDhNy8Bnu:2">Then double click here!</Text>
+      <Text data-ecu="hxtLeUVgve:2">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
