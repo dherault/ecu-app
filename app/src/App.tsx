@@ -44,7 +44,7 @@ function App(props: AppPropsType) {
       </Div>
       <Text data-ecu="bPO8puWJxw:1">:)</Text>
       <Text data-ecu="bPO8puWJxw:2">
-        !!! foo
+        !!! foo Foo
 
         Foo
       </Text>
