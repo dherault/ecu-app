@@ -40,7 +40,7 @@ function App(props: AppPropsType) {
   return (
     <>
       <Text data-ecu="hxtLeUVgve:0">First double click here</Text>
-      <Text data-ecu="hxtLeUVgve:1">Edit me I'm a Text</Text>
+      <Text data-ecu="hxtLeUVgve:1">First double click here</Text>
       <Text data-ecu="hxtLeUVgve:2">First double click here</Text>
       <CoolDiv />
       <Text data-ecu="hxtLeUVgve:3">Then double click here!</Text>
