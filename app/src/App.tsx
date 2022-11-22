@@ -50,7 +50,7 @@ function App(props: AppPropsType) {
           :D :D :D
         </Text>
       </Div>
-      <Text // ecu-display-name FooBar
+      <Text // ecu-display-name FooBarBaz
         data-ecu="NNoWCUabHl:1"
       >
         :)
