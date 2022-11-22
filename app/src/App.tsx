@@ -21,7 +21,7 @@ type AppPropsType = Record<string, never>;
   * EMOJI START
 -- */
 /*
-1f609
+1f300
 */
 /* --
   * EMOJI END
