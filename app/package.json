@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "ecu": "^1.0.23",
-    "honorable": "^0.164.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
