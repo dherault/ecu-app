@@ -40,7 +40,7 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div data-ecu="1AZTVHUQn7:0">
-        <Text data-ecu="1AZTVHUQn7:0_0">:D :D</Text>
+        <Text data-ecu="1AZTVHUQn7:0_0">:D :D :D</Text>
       </Div>
       <Text data-ecu="1AZTVHUQn7:1">:)</Text>
       <CoolDiv />
