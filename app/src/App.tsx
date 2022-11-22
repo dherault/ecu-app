@@ -39,7 +39,8 @@ The app, splendid!!!
 function App(props: AppPropsType) {
   return (
     <>
-      <Div data-ecu="la53NIPkq6:0">
+      <Div // ecu-display-name Cool
+        data-ecu="la53NIPkq6:0">
         <Text data-ecu="la53NIPkq6:0_0">
           :D :D :D
         </Text>
