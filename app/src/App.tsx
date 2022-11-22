@@ -39,17 +39,26 @@ The app, splendid!!!
 function App(props: AppPropsType) {
   return (
     <>
-      <Div data-ecu="1AZTVHUQn7:0">
-        <Text data-ecu="1AZTVHUQn7:0_0">:D :D :D</Text>
+      <Div
+    // ecu-display-name Container
+        data-ecu="M47h6uLxzo:0"
+      >
+        <Text
+      // ecu-display-name :D
+          data-ecu="M47h6uLxzo:0_0"
+        >
+          :D :D :D
+        </Text>
       </Div>
-      <Text data-ecu="1AZTVHUQn7:1">:)</Text>
+      // ecu-display-name Foo
+      <Text data-ecu="M47h6uLxzo:1">:)</Text>
       <CoolDiv />
       <CoolDiv />
-      <Text data-ecu="1AZTVHUQn7:2">{'1\n2\n3\n4'}</Text>
-      <Text data-ecu="1AZTVHUQn7:3">Foo!</Text>
-      <Text data-ecu="1AZTVHUQn7:4">First double click here</Text>
+      <Text data-ecu="M47h6uLxzo:2">{'1\n2\n3\n4'}</Text>
+      <Text data-ecu="M47h6uLxzo:3">Foo!</Text>
+      <Text data-ecu="M47h6uLxzo:4">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="1AZTVHUQn7:5">Then double click here!</Text>
+      <Text data-ecu="M47h6uLxzo:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
