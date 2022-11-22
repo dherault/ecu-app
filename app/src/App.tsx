@@ -52,7 +52,7 @@ function App(props: AppPropsType) {
         data-ecu="la53NIPkq6:1">
         :)
       </Text>
-      <CoolDiv // ecu-display-name Cool
+      <CoolDiv // ecu-display-name Cool!
       />
       <CoolDiv // ecu-display-name Cool2 again
       />
