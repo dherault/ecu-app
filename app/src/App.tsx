@@ -46,7 +46,7 @@ function App(props: AppPropsType) {
           :D :D :D :D
         </Text>
       </Div>
-      <Text data-ecu="la53NIPkq6:1" />
+      <Text data-ecu="la53NIPkq6:1">Foo</Text>
       <CoolDiv />
       <CoolDiv />
       <Text data-ecu="la53NIPkq6:2">
