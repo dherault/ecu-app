@@ -41,27 +41,25 @@ function App(props: AppPropsType) {
     <>
       <Div
     // ecu-display-name Container
-        data-ecu="nVh7nQVUxd:0">
+        data-ecu="la53NIPkq6:0">
         <Text
       // ecu-display-name :D
-          data-ecu="nVh7nQVUxd:0_0">
+          data-ecu="la53NIPkq6:0_0">
           :D :D :D
         </Text>
       </Div>
       <Text // ecu-display-name Foo
-        data-ecu="nVh7nQVUxd:1">
+        data-ecu="la53NIPkq6:1">
         :)
       </Text>
       <CoolDiv // ecu-display-name Cool
       />
-      <CoolDiv
-    // ecu-display-name Cool
-      />
-      <Text data-ecu="nVh7nQVUxd:2">{'1\n2\n3\n4'}</Text>
-      <Text data-ecu="nVh7nQVUxd:3">Foo!</Text>
-      <Text data-ecu="nVh7nQVUxd:4">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="nVh7nQVUxd:5">Then double click here!</Text>
+      <Text data-ecu="la53NIPkq6:2">{'1\n2\n3\n4'}</Text>
+      <Text data-ecu="la53NIPkq6:3">Foo!</Text>
+      <Text data-ecu="la53NIPkq6:4">First double click here</Text>
+      <CoolDiv />
+      <Text data-ecu="la53NIPkq6:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
