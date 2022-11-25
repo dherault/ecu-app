@@ -34,6 +34,7 @@ function TripleCoolDiv(props: TripleCoolDivPropsType) {
     <>
       <CoolDiv />
       <CoolDiv />
+      <CoolDiv />
       <Text data-ecu="N74MjuS1cn:0">
         Edit me I'm famous!
       </Text>
