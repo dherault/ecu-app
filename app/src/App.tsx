@@ -1,8 +1,9 @@
+import { Div, Text } from 'ecu'
+
+import ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong from './components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong'
 /* --
   * IMPORTS START
 -- */
-import { Div, Text } from 'ecu'
-
 import DualCoolDivs from './components/DualCoolDivs'
 import CoolDiv from './components/CoolDiv'
 
@@ -53,6 +54,7 @@ function App(props: AppPropsType) {
         {'1\n2\n3\n4'}
       </Text>
       <Text data-ecu="MSKSwXPBKk:3">Foo!</Text>
+      <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong />
       <Text data-ecu="MSKSwXPBKk:4">First double click here</Text>
       <CoolDiv />
       <Text data-ecu="MSKSwXPBKk:5">Then double click here!</Text>
