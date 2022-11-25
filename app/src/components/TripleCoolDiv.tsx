@@ -1,7 +1,9 @@
+import { Text } from 'ecu'
+
+import CoolDiv from './CoolDiv'
 /* --
 * IMPORTS START
 -- */
-import { Text } from 'ecu'
 
 /* --
 * IMPORTS END
@@ -29,9 +31,12 @@ type TripleCoolDivPropsType = Record<string, never>;
 
 function TripleCoolDiv(props: TripleCoolDivPropsType) {
   return (
-    <Text data-ecu="N74MjuS1cn:0">
-      Edit me I'm famous!
-    </Text>
+    <>
+      <CoolDiv />
+      <Text data-ecu="N74MjuS1cn:0">
+        Edit me I'm famous!
+      </Text>
+    </>
   )
 }
 
