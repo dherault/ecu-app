@@ -1,5 +1,5 @@
 {
-  "hash": "M02RJJD7/pU44S4fZGjFxZ4E9R8=",
+  "hash": "4Jbo3W0C94ekfkDaZ3z1IDjUzD8=",
   "nodes": {
     "zXgDEXW43": {
       "address": "zXgDEXW43",
@@ -276,6 +276,33 @@
         "relativePath": "src/components/ComponentAgain.tsx",
         "exportType": "None"
       }
+    },
+    "x2o4KzG-0": {
+      "address": "x2o4KzG-0",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "relativePath": "src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "50mT6HUBvT": {
+      "address": "50mT6HUBvT",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "relativePath": "src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -398,6 +425,16 @@
       "bX7tmYzYt",
       "DeclaresFunction",
       "ut38Vd5UVv"
+    ],
+    [
+      "x2o4KzG-0",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "x2o4KzG-0",
+      "DeclaresFunction",
+      "50mT6HUBvT"
     ]
   ]
 }
