@@ -1,5 +1,5 @@
 {
-  "hash": "4dJQmrqHBo3dVCWUnHpbAkCBMnM=",
+  "hash": "tT115f57/+5ILbhBuRJZJTX00Ho=",
   "nodes": {
     "zXgDEXW43": {
       "address": "zXgDEXW43",
@@ -249,6 +249,33 @@
         "relativePath": "src/components/AnnotherComponentYet.tsx",
         "exportType": "None"
       }
+    },
+    "bX7tmYzYt": {
+      "address": "bX7tmYzYt",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "ComponentAgain",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentAgain.tsx",
+        "relativePath": "src/components/ComponentAgain.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "ut38Vd5UVv": {
+      "address": "ut38Vd5UVv",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "ComponentAgain",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentAgain.tsx",
+        "relativePath": "src/components/ComponentAgain.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -361,6 +388,16 @@
       "pnGhiH6K7",
       "DeclaresFunction",
       "qExqGbocz5"
+    ],
+    [
+      "bX7tmYzYt",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "bX7tmYzYt",
+      "DeclaresFunction",
+      "ut38Vd5UVv"
     ]
   ]
 }
