@@ -1,5 +1,5 @@
 {
-  "hash": "w+lbndhxgAB4rTtkKZF2XfAOPSs=",
+  "hash": "O7PMxOEnhFDU61GGtsXOAhuBGqo=",
   "nodes": {
     "zXgDEXW43": {
       "address": "zXgDEXW43",
@@ -168,6 +168,33 @@
         "relativePath": "src/components/TripleCoolDiv.tsx",
         "exportType": "None"
       }
+    },
+    "AdEppVzH2": {
+      "address": "AdEppVzH2",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "SomeComponent",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/SomeComponent.tsx",
+        "relativePath": "src/components/SomeComponent.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "BBLFObEEmQ": {
+      "address": "BBLFObEEmQ",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "SomeComponent",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/SomeComponent.tsx",
+        "relativePath": "src/components/SomeComponent.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -250,6 +277,16 @@
       "Dsiz9Wbef",
       "DeclaresFunction",
       "N74MjuS1cn"
+    ],
+    [
+      "AdEppVzH2",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "AdEppVzH2",
+      "DeclaresFunction",
+      "BBLFObEEmQ"
     ]
   ]
 }
