@@ -1,5 +1,5 @@
 {
-  "hash": "aXAb02s5hkCtnuDzXXPy/fShEzQ=",
+  "hash": "4brq4FW+VckqS6TpmYZT7N/rUjc=",
   "nodes": {
     "zXgDEXW43": {
       "address": "zXgDEXW43",
@@ -141,6 +141,33 @@
         "relativePath": "src/components/DualCoolDivs.tsx",
         "exportType": "None"
       }
+    },
+    "Dsiz9Wbef": {
+      "address": "Dsiz9Wbef",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "TripleCoolDiv",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/TripleCoolDiv.tsx",
+        "relativePath": "src/components/TripleCoolDiv.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "N74MjuS1cn": {
+      "address": "N74MjuS1cn",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "TripleCoolDiv",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/TripleCoolDiv.tsx",
+        "relativePath": "src/components/TripleCoolDiv.tsx",
+        "exportType": "None"
+      }
     }
   },
   "edges": [
@@ -213,6 +240,16 @@
       "6sPgNJC8Fq",
       "ImportsModule",
       "@vitejs/plugin-react"
+    ],
+    [
+      "Dsiz9Wbef",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "Dsiz9Wbef",
+      "DeclaresFunction",
+      "N74MjuS1cn"
     ]
   ]
 }
