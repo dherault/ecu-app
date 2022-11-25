@@ -43,7 +43,7 @@ function App(props: AppPropsType) {
         data-ecu="MSKSwXPBKk:0">
         <Text // ecu-display-name Text!
           data-ecu="MSKSwXPBKk:0_0">
-          :D :D :D :D
+          :D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D:D :D :D :D
         </Text>
       </Div>
       <Text data-ecu="MSKSwXPBKk:1">Foo!</Text>
