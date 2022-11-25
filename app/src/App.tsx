@@ -54,7 +54,7 @@ function App(props: AppPropsType) {
         {'1\n2\n3\n4'}
       </Text>
       <Text data-ecu="MSKSwXPBKk:3">Foo!</Text>
-      <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLong
+      <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name Long
       />
       <Text data-ecu="MSKSwXPBKk:4">First double click here</Text>
       <CoolDiv />
