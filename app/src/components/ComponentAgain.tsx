@@ -29,7 +29,7 @@ type ComponentAgainPropsType = Record<string, never>;
 
 function ComponentAgain(props: ComponentAgainPropsType) {
   return (
-    <Text data-ecu="ut38Vd5UVv:0">
+    <Text data-ecu="U5ZbALT56q4:0">
       Edit me I'm famous!
     </Text>
   )

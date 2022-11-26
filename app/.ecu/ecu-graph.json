@@ -1,8 +1,8 @@
 {
-  "hash": "UVehIQu1vgH9zIiZBj3VnxSGPQw=",
+  "hash": "Fm8dq2Up1JobuVSTVP+t20N91M0=",
   "nodes": {
-    "zXgDEXW43": {
-      "address": "zXgDEXW43",
+    "Le48e9r9v": {
+      "address": "Le48e9r9v",
       "role": "File",
       "state": null,
       "payload": {
@@ -16,8 +16,68 @@
         "emoji": null
       }
     },
-    "7zzBs5W0bM": {
-      "address": "7zzBs5W0bM",
+    "B_pQ5Jxbzn": {
+      "address": "B_pQ5Jxbzn",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "AnnotherComponentYet",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/AnnotherComponentYet.tsx",
+        "relativePath": "src/components/AnnotherComponentYet.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "2peNTLdJsA": {
+      "address": "2peNTLdJsA",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "AnotherComponent",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/AnotherComponent.tsx",
+        "relativePath": "src/components/AnotherComponent.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "22E4l_ej05": {
+      "address": "22E4l_ej05",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "ComponentAgain",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentAgain.tsx",
+        "relativePath": "src/components/ComponentAgain.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "WBs9lKrHtE": {
+      "address": "WBs9lKrHtE",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "relativePath": "src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "qY-S8bEUNq": {
+      "address": "qY-S8bEUNq",
       "role": "File",
       "state": null,
       "payload": {
@@ -31,8 +91,8 @@
         "emoji": null
       }
     },
-    "UpOiGRY_lv": {
-      "address": "UpOiGRY_lv",
+    "KMYOCYX3ye": {
+      "address": "KMYOCYX3ye",
       "role": "File",
       "state": null,
       "payload": {
@@ -46,8 +106,68 @@
         "emoji": null
       }
     },
-    "TXskkPnBQq": {
-      "address": "TXskkPnBQq",
+    "gBroB0sZyt": {
+      "address": "gBroB0sZyt",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "SomeComponent",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/SomeComponent.tsx",
+        "relativePath": "src/components/SomeComponent.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "FYNQ0Kf6Uc": {
+      "address": "FYNQ0Kf6Uc",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "TripleCoolDiv",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/TripleCoolDiv.tsx",
+        "relativePath": "src/components/TripleCoolDiv.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "ZaKOOepxNy": {
+      "address": "ZaKOOepxNy",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "EcuCommonDecorator",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/decorators/EcuCommonDecorator.tsx",
+        "relativePath": "src/decorators/EcuCommonDecorator.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "JfJTqkdjTd": {
+      "address": "JfJTqkdjTd",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "index",
+        "extension": "css",
+        "path": "/Users/sven/dev/ecu-app/app/src/index.css",
+        "relativePath": "src/index.css",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "Z7Q0nw72xt": {
+      "address": "Z7Q0nw72xt",
       "role": "File",
       "state": null,
       "payload": {
@@ -61,8 +181,8 @@
         "emoji": null
       }
     },
-    "LcAH6GEmtl": {
-      "address": "LcAH6GEmtl",
+    "gXidMOPPc-": {
+      "address": "gXidMOPPc-",
       "role": "File",
       "state": null,
       "payload": {
@@ -76,8 +196,8 @@
         "emoji": null
       }
     },
-    "Ompge4khHS": {
-      "address": "Ompge4khHS",
+    "i8a6MwLA6B": {
+      "address": "i8a6MwLA6B",
       "role": "File",
       "state": null,
       "payload": {
@@ -91,8 +211,8 @@
         "emoji": null
       }
     },
-    "6sPgNJC8Fq": {
-      "address": "6sPgNJC8Fq",
+    "dVrk28KwfN": {
+      "address": "dVrk28KwfN",
       "role": "File",
       "state": null,
       "payload": {
@@ -106,8 +226,8 @@
         "emoji": null
       }
     },
-    "MSKSwXPBKk": {
-      "address": "MSKSwXPBKk",
+    "hMP24mCAS7": {
+      "address": "hMP24mCAS7",
       "role": "Function",
       "state": null,
       "payload": {
@@ -118,8 +238,56 @@
         "exportType": "None"
       }
     },
-    "5oOMsgs9J6": {
-      "address": "5oOMsgs9J6",
+    "IqQmb5wkiqs": {
+      "address": "IqQmb5wkiqs",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "AnnotherComponentYet",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/AnnotherComponentYet.tsx",
+        "relativePath": "src/components/AnnotherComponentYet.tsx",
+        "exportType": "None"
+      }
+    },
+    "WTI7FvL3pmP": {
+      "address": "WTI7FvL3pmP",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "AnotherComponent",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/AnotherComponent.tsx",
+        "relativePath": "src/components/AnotherComponent.tsx",
+        "exportType": "None"
+      }
+    },
+    "U5ZbALT56q4": {
+      "address": "U5ZbALT56q4",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "ComponentAgain",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentAgain.tsx",
+        "relativePath": "src/components/ComponentAgain.tsx",
+        "exportType": "None"
+      }
+    },
+    "3ElYiVDS0aU": {
+      "address": "3ElYiVDS0aU",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "relativePath": "src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "exportType": "None"
+      }
+    },
+    "zKcwZDnKX-A": {
+      "address": "zKcwZDnKX-A",
       "role": "Function",
       "state": null,
       "payload": {
@@ -130,8 +298,8 @@
         "exportType": "None"
       }
     },
-    "CjGff-yXdf": {
-      "address": "CjGff-yXdf",
+    "t-aSnBAqBB7": {
+      "address": "t-aSnBAqBB7",
       "role": "Function",
       "state": null,
       "payload": {
@@ -142,50 +310,8 @@
         "exportType": "None"
       }
     },
-    "Dsiz9Wbef": {
-      "address": "Dsiz9Wbef",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "TripleCoolDiv",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/TripleCoolDiv.tsx",
-        "relativePath": "src/components/TripleCoolDiv.tsx",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "N74MjuS1cn": {
-      "address": "N74MjuS1cn",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "TripleCoolDiv",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/TripleCoolDiv.tsx",
-        "relativePath": "src/components/TripleCoolDiv.tsx",
-        "exportType": "None"
-      }
-    },
-    "AdEppVzH2": {
-      "address": "AdEppVzH2",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "SomeComponent",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/SomeComponent.tsx",
-        "relativePath": "src/components/SomeComponent.tsx",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "BBLFObEEmQ": {
-      "address": "BBLFObEEmQ",
+    "GU2idonK27j": {
+      "address": "GU2idonK27j",
       "role": "Function",
       "state": null,
       "payload": {
@@ -196,245 +322,181 @@
         "exportType": "None"
       }
     },
-    "34vXCwNie": {
-      "address": "34vXCwNie",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "AnotherComponent",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/AnotherComponent.tsx",
-        "relativePath": "src/components/AnotherComponent.tsx",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "yA5D_3_6bm": {
-      "address": "yA5D_3_6bm",
+    "8L7I0esuRzs": {
+      "address": "8L7I0esuRzs",
       "role": "Function",
       "state": null,
       "payload": {
-        "name": "AnotherComponent",
+        "name": "TripleCoolDiv",
         "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/AnotherComponent.tsx",
-        "relativePath": "src/components/AnotherComponent.tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/TripleCoolDiv.tsx",
+        "relativePath": "src/components/TripleCoolDiv.tsx",
         "exportType": "None"
       }
     },
-    "pnGhiH6K7": {
-      "address": "pnGhiH6K7",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "AnnotherComponentYet",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/AnnotherComponentYet.tsx",
-        "relativePath": "src/components/AnnotherComponentYet.tsx",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "qExqGbocz5": {
-      "address": "qExqGbocz5",
+    "rYoxqbXkKdM": {
+      "address": "rYoxqbXkKdM",
       "role": "Function",
       "state": null,
       "payload": {
-        "name": "AnnotherComponentYet",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/AnnotherComponentYet.tsx",
-        "relativePath": "src/components/AnnotherComponentYet.tsx",
-        "exportType": "None"
-      }
-    },
-    "bX7tmYzYt": {
-      "address": "bX7tmYzYt",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "ComponentAgain",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentAgain.tsx",
-        "relativePath": "src/components/ComponentAgain.tsx",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "ut38Vd5UVv": {
-      "address": "ut38Vd5UVv",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "ComponentAgain",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentAgain.tsx",
-        "relativePath": "src/components/ComponentAgain.tsx",
-        "exportType": "None"
-      }
-    },
-    "x2o4KzG-0": {
-      "address": "x2o4KzG-0",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong",
-        "extension": "tsx",
-        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
-        "relativePath": "src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "50mT6HUBvT": {
-      "address": "50mT6HUBvT",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong",
-        "isComponent": true,
-        "path": "/Users/sven/dev/ecu-app/app/src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
-        "relativePath": "src/components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong.tsx",
+        "name": "EcuCommonDecorator",
+        "isComponent": false,
+        "path": "/Users/sven/dev/ecu-app/app/src/decorators/EcuCommonDecorator.tsx",
+        "relativePath": "src/decorators/EcuCommonDecorator.tsx",
         "exportType": "None"
       }
     }
   },
   "edges": [
     [
-      "zXgDEXW43",
+      "Le48e9r9v",
       "ImportsModule",
       "ecu"
     ],
     [
-      "zXgDEXW43",
+      "Le48e9r9v",
       "ImportsFile",
-      "UpOiGRY_lv"
+      "WBs9lKrHtE"
     ],
     [
-      "zXgDEXW43",
+      "Le48e9r9v",
       "ImportsFile",
-      "7zzBs5W0bM"
+      "KMYOCYX3ye"
     ],
     [
-      "zXgDEXW43",
+      "Le48e9r9v",
+      "ImportsFile",
+      "qY-S8bEUNq"
+    ],
+    [
+      "Le48e9r9v",
       "DeclaresFunction",
-      "MSKSwXPBKk"
+      "hMP24mCAS7"
     ],
     [
-      "7zzBs5W0bM",
+      "B_pQ5Jxbzn",
       "ImportsModule",
       "ecu"
     ],
     [
-      "7zzBs5W0bM",
+      "B_pQ5Jxbzn",
       "DeclaresFunction",
-      "5oOMsgs9J6"
+      "IqQmb5wkiqs"
     ],
     [
-      "UpOiGRY_lv",
+      "2peNTLdJsA",
       "ImportsModule",
       "ecu"
     ],
     [
-      "UpOiGRY_lv",
-      "ImportsFile",
-      "7zzBs5W0bM"
-    ],
-    [
-      "UpOiGRY_lv",
+      "2peNTLdJsA",
       "DeclaresFunction",
-      "CjGff-yXdf"
+      "WTI7FvL3pmP"
     ],
     [
-      "TXskkPnBQq",
+      "22E4l_ej05",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "22E4l_ej05",
+      "DeclaresFunction",
+      "U5ZbALT56q4"
+    ],
+    [
+      "WBs9lKrHtE",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "WBs9lKrHtE",
+      "DeclaresFunction",
+      "3ElYiVDS0aU"
+    ],
+    [
+      "qY-S8bEUNq",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "qY-S8bEUNq",
+      "DeclaresFunction",
+      "zKcwZDnKX-A"
+    ],
+    [
+      "KMYOCYX3ye",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "KMYOCYX3ye",
+      "ImportsFile",
+      "qY-S8bEUNq"
+    ],
+    [
+      "KMYOCYX3ye",
+      "DeclaresFunction",
+      "t-aSnBAqBB7"
+    ],
+    [
+      "gBroB0sZyt",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "gBroB0sZyt",
+      "DeclaresFunction",
+      "GU2idonK27j"
+    ],
+    [
+      "FYNQ0Kf6Uc",
+      "ImportsModule",
+      "ecu"
+    ],
+    [
+      "FYNQ0Kf6Uc",
+      "ImportsFile",
+      "qY-S8bEUNq"
+    ],
+    [
+      "FYNQ0Kf6Uc",
+      "DeclaresFunction",
+      "8L7I0esuRzs"
+    ],
+    [
+      "ZaKOOepxNy",
+      "ImportsModule",
+      "react"
+    ],
+    [
+      "ZaKOOepxNy",
+      "DeclaresFunction",
+      "rYoxqbXkKdM"
+    ],
+    [
+      "Z7Q0nw72xt",
       "ImportsModule",
       "react-dom/client"
     ],
     [
-      "TXskkPnBQq",
+      "Z7Q0nw72xt",
       "ImportsModule",
       "ecu"
     ],
     [
-      "TXskkPnBQq",
+      "Z7Q0nw72xt",
       "ImportsFile",
-      "zXgDEXW43"
+      "Le48e9r9v"
     ],
     [
-      "6sPgNJC8Fq",
+      "dVrk28KwfN",
       "ImportsModule",
       "vite"
     ],
     [
-      "6sPgNJC8Fq",
+      "dVrk28KwfN",
       "ImportsModule",
       "@vitejs/plugin-react"
-    ],
-    [
-      "Dsiz9Wbef",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "Dsiz9Wbef",
-      "DeclaresFunction",
-      "N74MjuS1cn"
-    ],
-    [
-      "AdEppVzH2",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "AdEppVzH2",
-      "DeclaresFunction",
-      "BBLFObEEmQ"
-    ],
-    [
-      "34vXCwNie",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "34vXCwNie",
-      "DeclaresFunction",
-      "yA5D_3_6bm"
-    ],
-    [
-      "pnGhiH6K7",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "pnGhiH6K7",
-      "DeclaresFunction",
-      "qExqGbocz5"
-    ],
-    [
-      "bX7tmYzYt",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "bX7tmYzYt",
-      "DeclaresFunction",
-      "ut38Vd5UVv"
-    ],
-    [
-      "x2o4KzG-0",
-      "ImportsModule",
-      "ecu"
-    ],
-    [
-      "x2o4KzG-0",
-      "DeclaresFunction",
-      "50mT6HUBvT"
     ]
   ]
 }
