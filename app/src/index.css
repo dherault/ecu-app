@@ -8,14 +8,10 @@
 }
 
 .padding-y {
-  margin-right: 16px;
-  margin-left: 16px;
   padding-top: 2px;
   padding-bottom: 2px;}
 
 .red.padding-y.margin-x {
-  margin-right: 16px;
-  margin-left: 16px;
   padding-top: 2px;
   padding-bottom: 2px;}
 
@@ -25,9 +21,7 @@
 .margin-x.red {}
 
 .padding-top {
-  margin-top: 16px;
-  margin-right: 16px;
-  margin-left: 16px;}
+  padding-top: 16px;}
 
 .margin-top {
   margin-top: 4px;

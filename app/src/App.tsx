@@ -41,30 +41,30 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div // ecu-display-name Container
-        data-ecu="MChxfMaNjQ:0">
+        data-ecu="cTczbbiZUT:0">
         <Text // ecu-display-name Text!
-          data-ecu="MChxfMaNjQ:0_0">
+          data-ecu="cTczbbiZUT:0_0">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text
         className="margin-x red padding-y margin-top"
-        data-ecu="MChxfMaNjQ:1">
+        data-ecu="cTczbbiZUT:1">
         Red className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
         className="foo baz"
-        data-ecu="MChxfMaNjQ:2">
+        data-ecu="cTczbbiZUT:2">
         {'1\n2\n3\n4'}
       </Text>
-      <Text data-ecu="MChxfMaNjQ:3">Foo!</Text>
+      <Text data-ecu="cTczbbiZUT:3">Foo!</Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name Long
       />
-      <Text data-ecu="MChxfMaNjQ:4">First double click here</Text>
+      <Text data-ecu="cTczbbiZUT:4">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="MChxfMaNjQ:5">Then double click here!</Text>
+      <Text data-ecu="cTczbbiZUT:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
