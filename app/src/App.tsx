@@ -41,28 +41,28 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div // ecu-display-name Container
-        data-ecu="owMRWb3_Fi:0">
+        data-ecu="y7qE5GENbS:0">
         <Text // ecu-display-name Text!
-          data-ecu="owMRWb3_Fi:0_0">
+          data-ecu="y7qE5GENbS:0_0">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text
-        className="foo baz go bar"
-        data-ecu="owMRWb3_Fi:1">
+        className="foo bar"
+        data-ecu="y7qE5GENbS:1">
         Foo className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
-      <Text data-ecu="owMRWb3_Fi:2">
+      <Text data-ecu="y7qE5GENbS:2">
         {'1\n2\n3\n4'}
       </Text>
-      <Text data-ecu="owMRWb3_Fi:3">Foo!</Text>
+      <Text data-ecu="y7qE5GENbS:3">Foo!</Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name Long
       />
-      <Text data-ecu="owMRWb3_Fi:4">First double click here</Text>
+      <Text data-ecu="y7qE5GENbS:4">First double click here</Text>
       <CoolDiv />
-      <Text data-ecu="owMRWb3_Fi:5">Then double click here!</Text>
+      <Text data-ecu="y7qE5GENbS:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
