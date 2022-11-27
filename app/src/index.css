@@ -9,7 +9,9 @@
 
 .padding-y {
   padding-top: 2px;
-  padding-bottom: 2px;}
+  padding-bottom: 2px;
+  margin-right: 16px;
+  margin-left: 16px;}
 
 .red.padding-y.margin-x {
   margin-top: 2px;
