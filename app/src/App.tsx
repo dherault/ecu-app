@@ -48,7 +48,7 @@ function App(props: AppPropsType) {
         </Text>
       </Div>
       <Text
-        className="foo bar"
+        className="foo"
         data-ecu="LiXfnWkDts:1">
         Foo className
       </Text>
