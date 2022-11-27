@@ -29,7 +29,7 @@ type AnnotherComponentYetPropsType = Record<string, never>;
 
 function AnnotherComponentYet(props: AnnotherComponentYetPropsType) {
   return (
-    <Text data-ecu="e9QdHcw3iRn:0">
+    <Text data-ecu="_JfNbshoZ5M:0">
       Edit me I'm famous!
     </Text>
   )
