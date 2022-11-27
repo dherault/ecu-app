@@ -17,4 +17,8 @@
 
 .red.padding-y.margin-x {}
 
-.random {}
+.random {
+  margin-top: 2px;
+  margin-right: 16px;
+  margin-bottom: 0;
+  margin-left: 32px;}
