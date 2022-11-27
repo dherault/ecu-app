@@ -1,6 +1,7 @@
 /* --
  * DO NOT DELETE THIS FILE
  * EcuCommonDecorator.tsx is used to decorate any Ecu component
+ * Its primary role is to inject the index.css into the Ecu iframe
 -- */
 import { ReactNode, useEffect } from 'react'
 

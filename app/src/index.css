@@ -1,3 +1,14 @@
 .foo {
   color: red;
+  margin: 2px;
+  padding-left: 6px;
 }
+
+.foo.bar {
+  background-color: blue;
+  margin-top: 4px;
+  padding-right: 2px;
+}
+
+.foo.bar.baz {}
+.foo.bar.baz.go {}
