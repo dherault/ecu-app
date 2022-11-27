@@ -3,10 +3,10 @@
 }
 
 .margin-x {
-  margin-top: 0;
-  margin-right: 16px;
-  margin-bottom: 0;
-  margin-left: 16px;}
+  padding-top: 4px;
+  padding-right: 0;
+  padding-bottom: 4px;
+  padding-left: 4px;}
 
 .padding-y {
   padding-top: 4px;
