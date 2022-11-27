@@ -24,4 +24,7 @@
 
 .margin-x.red {}
 
-.padding-top {}
+.padding-top {
+  margin-top: 16px;
+  margin-right: 16px;
+  margin-left: 16px;}
