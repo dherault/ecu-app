@@ -55,7 +55,7 @@ function App(props: AppPropsType) {
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
-        className="foo baz"
+        className="foo"
         data-ecu="LiXfnWkDts:2">
         {'1\n2\n3\n4'}
       </Text>
