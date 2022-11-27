@@ -22,7 +22,8 @@
 
 .margin-x.red {}
 
-.margin-x.padding-y {}
+.margin-x.padding-y {
+  margin-bottom: 2px;}
 
 .margin-x.padding-y.red {
   margin-top: 2px;}
