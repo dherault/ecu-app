@@ -48,7 +48,7 @@ function App(props: AppPropsType) {
         </Text>
       </Div>
       <Text
-        className="margin-x red padding-y"
+        className="margin-x red padding-y random"
         data-ecu="B66AQZfdKS:1">
         Red className
       </Text>
