@@ -10,6 +10,15 @@
   padding-right: 2px;
 }
 
-.foo.bar.baz {}
+.foo.bar.baz {
+  margin: 2px;
+  margin-top: 4px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  padding-right: 2px;
+  padding-left: 6px;
+  padding-top: 0;
+  padding-bottom: 2px;}
 
 .foo.baz {}
