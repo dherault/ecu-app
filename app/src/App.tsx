@@ -47,7 +47,7 @@ function App(props: AppPropsType) {
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
-      <Text
+      <Text // ecu-display-name Red className
         className="margin-x red padding-y flex-reverse"
         data-ecu="vV5dboDIXpe:1">
         Red className
