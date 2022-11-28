@@ -30,5 +30,5 @@
 
 .flex-reverse {
   display: flex;
-  align-items: flex-end;
-  flex-direction: row-reverse;}
+  flex-direction: row-reverse;
+  align-items: center;}
