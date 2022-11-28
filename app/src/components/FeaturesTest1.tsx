@@ -1,7 +1,7 @@
 /* --
 * IMPORTS START
 -- */
-import { Text } from 'ecu'
+import { Div, Text } from 'ecu'
 
 /* --
 * IMPORTS END
@@ -29,9 +29,12 @@ type FeaturesTest1PropsType = Record<string, never>;
 
 function FeaturesTest1(props: FeaturesTest1PropsType) {
   return (
-    <Text data-ecu="l4b0XKVLWM:0">
-      Edit me I'm famous!
-    </Text>
+    <>
+      <Div data-ecu="l4b0XKVLWM:0" />
+      <Text data-ecu="l4b0XKVLWM:1">
+        Edit me I'm famous!
+      </Text>
+    </>
   )
 }
 
