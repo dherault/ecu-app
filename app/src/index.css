@@ -29,7 +29,7 @@
 .go {}
 
 .flex-reverse {
-  padding-bottom: 0em;
+  padding-bottom: 0vh;
   display: flex;
   flex-direction: row-reverse;
   justify-content: center;
