@@ -29,6 +29,5 @@
 .go {}
 
 .flex-reverse {
-  flex-direction: row-reverse;
-  align-items: flex-start;
-  display: flex;}
+  display: flex;
+  flex-direction: row-reverse;}
