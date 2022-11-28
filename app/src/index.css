@@ -38,7 +38,8 @@
 
 .red.margin-x.margin-top {}
 
-.flex {}
+.flex {
+  display: flex;}
 
 .padding-y.flex {}
 
