@@ -35,7 +35,8 @@
 
 .flex-reverse {
   display: flex;
-  flex-direction: row-reverse;}
+  flex-direction: row-reverse;
+  padding-right: 13px;}
 
 .feature-test-text {
   padding-right: 4px;
