@@ -28,4 +28,5 @@
 
 .go {}
 
-.flex-reverse {}
+.flex-reverse {
+  display: flex;}
