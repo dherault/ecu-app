@@ -34,7 +34,6 @@
 .go {}
 
 .flex-reverse {
-  padding-right: 0px;
   display: flex;
   flex-direction: row-reverse;}
 
