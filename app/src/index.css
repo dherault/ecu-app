@@ -20,7 +20,8 @@
 .margin-top {
   margin-top: 4px;}
 
-.flex {}
+.flex {
+  display: flex;}
 
 .foo {}
 
