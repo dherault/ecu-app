@@ -48,7 +48,7 @@ function App(props: AppPropsType) {
         </Text>
       </Div>
       <Text // ecu-display-name Red className
-        className="red hero-❤️"
+        className="red hero-❤️ 👋🏻"
         data-ecu="9j3ghBqjqJE:1">
         Red className
       </Text>
