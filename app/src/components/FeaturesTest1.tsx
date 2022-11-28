@@ -35,8 +35,8 @@ function FeaturesTest1(props: FeaturesTest1PropsType) {
         data-ecu="4_PFmJeDFmc:0" />
       
       
-      <Div data-ecu="4_PFmJeDFmc:1" />
-      <Text data-ecu="4_PFmJeDFmc:2">
+      
+      <Text data-ecu="4_PFmJeDFmc:1">
         Edit me I'm famous!
       </Text>
     </>
