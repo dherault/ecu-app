@@ -45,4 +45,5 @@
 
 .margin-x.padding-y.flex {}
 
-.margin-x.flex {}
+.margin-x.flex {
+  display: grid;}
