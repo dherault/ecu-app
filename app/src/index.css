@@ -20,30 +20,5 @@
 .margin-top {
   margin-top: 4px;}
 
-.margin-x.red {}
-
-.margin-x.padding-y {
-  margin-bottom: 2px;}
-
-.margin-x.padding-y.red {
-  margin-top: 2px;}
-
-.padding-y.red {}
-
-.padding-y.margin-top {}
-
-.margin-top.red {}
-
-.margin-x.margin-top {}
-
-.red.margin-x.margin-top {}
-
 .flex {
   display: flex;}
-
-.padding-y.flex {}
-
-.margin-x.padding-y.flex {}
-
-.margin-x.flex {
-  display: grid;}
