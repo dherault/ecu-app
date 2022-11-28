@@ -34,9 +34,9 @@
 .go {}
 
 .flex-reverse {
+  padding-right: 13px;
   display: flex;
-  flex-direction: row-reverse;
-  padding-right: 13px;}
+  flex-direction: row-reverse;}
 
 .feature-test-text {
   padding-right: 4px;
