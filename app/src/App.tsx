@@ -62,7 +62,11 @@ function App(props: AppPropsType) {
       <Text data-ecu="wIAqBP774nQ:3">Foo!</Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text data-ecu="wIAqBP774nQ:4">Responsive</Text>
+      <Text
+        className="responsive-flex"
+        data-ecu="wIAqBP774nQ:4">
+        Responsive
+      </Text>
       <CoolDiv />
       <Text data-ecu="wIAqBP774nQ:5">Then double click here!</Text>
       <DualCoolDivs />
