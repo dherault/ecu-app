@@ -5,7 +5,7 @@
 .margin-x {
   margin-right: 16px;
   margin-left: 16px;
-  display: grid;
+  display: flex;
 }
 
 .padding-y {
