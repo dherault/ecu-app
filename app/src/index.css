@@ -30,4 +30,5 @@
 
 .flex-reverse {
   flex-direction: row-reverse;
-  justify-content: center;}
+  justify-content: center;
+  display: flex;}
