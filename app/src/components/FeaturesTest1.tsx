@@ -32,7 +32,8 @@ function FeaturesTest1(props: FeaturesTest1PropsType) {
     <>
       <Div data-ecu="l4b0XKVLWM:0" />
       <Div data-ecu="l4b0XKVLWM:1" />
-      <Text data-ecu="l4b0XKVLWM:2">
+      <Div data-ecu="l4b0XKVLWM:2" />
+      <Text data-ecu="l4b0XKVLWM:3">
         Edit me I'm famous!
       </Text>
     </>
