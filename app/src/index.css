@@ -31,4 +31,4 @@
 .flex-reverse {
   display: flex;
   flex-direction: row-reverse;
-  align-items: center;}
+  align-items: flex-end;}
