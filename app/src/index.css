@@ -29,4 +29,5 @@
 .go {}
 
 .flex-reverse {
-  display: flex;}
+  display: flex;
+  flex-direction: column;}
