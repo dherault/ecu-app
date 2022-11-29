@@ -40,3 +40,28 @@
   .cool-class-2 {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .cool-class-3 {
+  }
+}
+
+@media  {
+  .cool-class-3 {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .cool-class-3 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cool-class-3 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .cool-class-3 {
+  }
+}

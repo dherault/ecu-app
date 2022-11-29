@@ -32,9 +32,9 @@ type CoolDivPropsType = Record<string, never>;
 function CoolDiv(props: CoolDivPropsType) {
   return (
     <Div // ecu-display-name The cool div
-      data-ecu="kBr_yHNDorr:0">
+      data-ecu="eATcvzSsm9H:0">
       <Text // ecu-display-name Some text
-        data-ecu="kBr_yHNDorr:0_0">
+        data-ecu="eATcvzSsm9H:0_0">
         Edit me I'm a CoolDiv
       </Text>
     </Div>
