@@ -50,3 +50,13 @@
   .cool-class-2 {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .cool-class {
+  }
+}
+
+@media  {
+  .cool-class {
+  }
+}
