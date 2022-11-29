@@ -41,34 +41,34 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div // ecu-display-name Container
-        data-ecu="yCpw3Ogftxw:0">
+        data-ecu="ZPiWYCu9g:0">
         <Text // ecu-display-name Text!
-          data-ecu="yCpw3Ogftxw:0_0">
+          data-ecu="ZPiWYCu9g:0_0">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="red hero-❤️"
-        data-ecu="yCpw3Ogftxw:1">
+        data-ecu="ZPiWYCu9g:1">
         Red className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
         className="foo baz"
-        data-ecu="yCpw3Ogftxw:2">
+        data-ecu="ZPiWYCu9g:2">
         {'1\n2\n3\n4'}
       </Text>
-      <Text data-ecu="yCpw3Ogftxw:3">Foo!</Text>
+      <Text data-ecu="ZPiWYCu9g:3">Foo!</Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
       <Text
-        className="responsive-flex cool-class another-cool-class yet-another-cool-class again-cool-class"
-        data-ecu="yCpw3Ogftxw:4">
+        className="another-cool-class yet-another-cool-class again-cool-class"
+        data-ecu="ZPiWYCu9g:4">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="yCpw3Ogftxw:5">Then double click here!</Text>
+      <Text data-ecu="ZPiWYCu9g:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
