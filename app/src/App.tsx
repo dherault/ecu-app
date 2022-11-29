@@ -60,7 +60,11 @@ function App(props: AppPropsType) {
         data-ecu="VuY5TWpk1O6:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text data-ecu="VuY5TWpk1O6:3">Foo!</Text>
+      <Text
+        className="😆"
+        data-ecu="VuY5TWpk1O6:3">
+        Foo!
+      </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
       <Text
