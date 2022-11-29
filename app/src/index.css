@@ -18,8 +18,9 @@
     margin-right: 8px;
     margin-left: 8px;
     display: flex;
-    justify-content: flex-end;
     flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
   }
 }
 
