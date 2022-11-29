@@ -16,3 +16,17 @@
 @media screen and (max-width: 478px) {
 .cool-class {}
 }
+
+.another-cool-class {}
+
+@media screen and (max-width: 991px) {
+  .another-cool-class {}
+}
+
+@media screen and (max-width: 767px) {
+  .another-cool-class {}
+}
+
+@media screen and (max-width: 478px) {
+  .another-cool-class {}
+}
