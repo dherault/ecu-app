@@ -3,9 +3,12 @@
   min-height: 16px;
 }
 
+@media screen and (min-width: 1280px) {
+  .cool-class {
+  }
+}
+
 .cool-class {
-  margin-right: 8px;
-  margin-left: 8px;
 }
 
 @media screen and (max-width: 991px) {
@@ -19,44 +22,6 @@
 }
 
 @media screen and (max-width: 478px) {
-  .cool-class {
-  }
-}
-
-.cool-class-2 {
-}
-
-@media screen and (max-width: 991px) {
-  .cool-class-2 {
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .cool-class-2 {
-  }
-}
-
-@media screen and (max-width: 478px) {
-  .cool-class-2 {
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .cool-class-2 {
-  }
-}
-
-@media  {
-  .cool-class-2 {
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .cool-class {
-  }
-}
-
-@media  {
   .cool-class {
   }
 }

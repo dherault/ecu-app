@@ -36,7 +36,7 @@
     "media": "screen and (max-width: 767px)"
   },
   {
-    "id": "Mobile",
+    "id": "Mobile Portrait",
     "name": "Mobile Portrait",
     "max": 478,
     "min": 0,

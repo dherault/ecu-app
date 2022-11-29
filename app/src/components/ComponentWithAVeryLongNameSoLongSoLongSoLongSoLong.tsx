@@ -35,7 +35,7 @@ type ComponentWithAVeryLongNameSoLongSoLongSoLongSoLongPropsType = Record<string
 
 function ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong(props: ComponentWithAVeryLongNameSoLongSoLongSoLongSoLongPropsType) {
   return (
-    <Text data-ecu="FxQv8vL0S7G:0">
+    <Text data-ecu="D8mLKnxW_x:0">
       Edit me I'm famous!
     </Text>
   )
