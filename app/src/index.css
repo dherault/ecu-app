@@ -22,3 +22,21 @@
   .cool-class {
   }
 }
+
+.cool-class-2 {
+}
+
+@media screen and (max-width: 991px) {
+  .cool-class-2 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cool-class-2 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .cool-class-2 {
+  }
+}
