@@ -30,3 +30,21 @@
 @media screen and (max-width: 478px) {
   .another-cool-class {}
 }
+
+.yet-another-cool-class {
+}
+
+@media screen and (max-width: 991px) {
+  .yet-another-cool-class {
+}
+}
+
+@media screen and (max-width: 767px) {
+  .yet-another-cool-class {
+}
+}
+
+@media screen and (max-width: 478px) {
+  .yet-another-cool-class {
+}
+}

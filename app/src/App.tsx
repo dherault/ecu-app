@@ -63,7 +63,7 @@ function App(props: AppPropsType) {
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
       <Text
-        className="responsive-flex cool-class another-cool-class"
+        className="responsive-flex cool-class another-cool-class yet-another-cool-class"
         data-ecu="yCpw3Ogftxw:4">
         Responsive
       </Text>
