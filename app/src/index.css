@@ -3,57 +3,16 @@
   min-height: 16px;
 }
 
-.red {
-  color: red;
-}
-
-.margin-x {
-  margin-right: 16px;
-  margin-left: 16px;
-}
-
-.padding-y {
-  padding-top: 2px;
-  padding-bottom: 2px;}
-
-.random {
-  padding-left: 2px;}
-
-.padding-top {
-  padding-top: 16px;}
-
-.margin-top {
-  margin-top: 4px;}
-
-.flex {
-  display: flex;
-  flex-direction: row-reverse;}
+.cool-class {}
 
 @media screen and (max-width: 991px) {
-  .responsive-flex {
-    display: flex;
-}
+.cool-class {}
 }
 
-.go {}
-
-.flex-reverse {
-  display: flex;
-  justify-content: center;
+@media screen and (max-width: 767px) {
+.cool-class {}
 }
 
-.feature-test-text {
-  padding-right: 4px;
-  padding-bottom: 4px;
-  padding-left: 4px;
-  padding-top: 4px;}
-
-.🤩 {
-  margin-top: 96px;
+@media screen and (max-width: 478px) {
+.cool-class {}
 }
-
-.hero-❤️ {
-  padding-top: 8px;
-}
-
-.👋🏻 {}
