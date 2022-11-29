@@ -62,9 +62,7 @@ function App(props: AppPropsType) {
       <Text data-ecu="ZPiWYCu9g:3">Foo!</Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text
-        className="again-cool-class"
-        data-ecu="ZPiWYCu9g:4">
+      <Text data-ecu="ZPiWYCu9g:4">
         Responsive
       </Text>
       <CoolDiv />
