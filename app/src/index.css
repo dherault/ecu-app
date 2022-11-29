@@ -5,6 +5,7 @@
 
 .cool-class {
   margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (max-width: 991px) {
