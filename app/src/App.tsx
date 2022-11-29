@@ -63,7 +63,7 @@ function App(props: AppPropsType) {
       <Text
         className="😆"
         data-ecu="VuY5TWpk1O6:3">
-        Foo!
+        Emoji class
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
