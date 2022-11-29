@@ -3,20 +3,20 @@
   min-height: 16px;
 }
 
-.again-cool-class {
+.cool-class {
 }
 
 @media screen and (max-width: 991px) {
-  .again-cool-class {
+  .cool-class {
   }
 }
 
 @media screen and (max-width: 767px) {
-  .again-cool-class {
+  .cool-class {
   }
 }
 
 @media screen and (max-width: 478px) {
-  .again-cool-class {
+  .cool-class {
   }
 }
