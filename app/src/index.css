@@ -48,3 +48,21 @@
   .yet-another-cool-class {
 }
 }
+
+.again-cool-class {
+}
+
+@media screen and (max-width: 991px) {
+  .again-cool-class {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .again-cool-class {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .again-cool-class {
+  }
+}
