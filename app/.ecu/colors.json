@@ -124,5 +124,11 @@
     "value": "#8b00ff",
     "variableName": "--color-12803340589356726",
     "__typename": "Color"
+  },
+  {
+    "id": "ZwVQb2mkb",
+    "variableName": "--color-ZwVQb2mkb",
+    "name": "Color 19",
+    "value": "#ffffff"
   }
 ]
