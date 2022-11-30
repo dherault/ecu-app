@@ -29,7 +29,7 @@ type SomeComponentPropsType = Record<string, never>;
 
 function SomeComponent(props: SomeComponentPropsType) {
   return (
-    <Text data-ecu="NrRQ6rwXgTg:0">
+    <Text data-ecu="7DlV3Bku7AX:0">
       Edit me I'm famous!
     </Text>
   )
