@@ -55,7 +55,9 @@ function App(props: AppPropsType) {
       
       <CoolDiv // ecu-display-name Some cool div
       />
-      <Text data-ecu="VuY5TWpk1O6:2">
+      <Text
+        className="max-height"
+        data-ecu="VuY5TWpk1O6:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
       <Text
