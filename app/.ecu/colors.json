@@ -78,7 +78,7 @@
   },
   {
     "id": "4379637099786504",
-    "name": "Color 12",
+    "name": "Grey.500",
     "value": "#7f7f7f",
     "variableName": "--color-4379637099786504",
     "__typename": "Color"
