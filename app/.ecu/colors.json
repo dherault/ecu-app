@@ -127,8 +127,9 @@
   },
   {
     "id": "ZwVQb2mkb",
-    "variableName": "--color-ZwVQb2mkb",
     "name": "Color 19",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-ZwVQb2mkb",
+    "__typename": "Color"
   }
 ]
