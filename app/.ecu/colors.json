@@ -1,8 +1,9 @@
 [
   {
     "id": "8636541263509827",
-    "variableName": "--color-8636541263509827",
     "name": "Color 1",
-    "value": "#ffffff"
+    "value": "#a01a1a",
+    "variableName": "--color-8636541263509827",
+    "__typename": "Color"
   }
 ]
