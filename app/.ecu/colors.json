@@ -5,5 +5,11 @@
     "value": "#1211cf",
     "variableName": "--color-8636541263509827",
     "__typename": "Color"
+  },
+  {
+    "id": "032935143647617515",
+    "variableName": "--color-032935143647617515",
+    "name": "Color 2",
+    "value": "#ffffff"
   }
 ]
