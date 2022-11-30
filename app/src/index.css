@@ -184,6 +184,7 @@
 }
 
 .max-height {
+  max-height: 0px;
 }
 
 @media screen and (max-width: 991px) {
