@@ -190,6 +190,7 @@
 
 @media screen and (max-width: 991px) {
   .max-height {
+    max-height: 32px;
   }
 }
 
