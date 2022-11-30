@@ -8,104 +8,121 @@
   },
   {
     "id": "032935143647617515",
-    "variableName": "--color-032935143647617515",
     "name": "Color 2",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-032935143647617515",
+    "__typename": "Color"
   },
   {
     "id": "16773572549573434",
-    "variableName": "--color-16773572549573434",
     "name": "Color 3",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-16773572549573434",
+    "__typename": "Color"
   },
   {
     "id": "16086423139333728",
-    "variableName": "--color-16086423139333728",
     "name": "Color 4",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-16086423139333728",
+    "__typename": "Color"
   },
   {
     "id": "8737504984386271",
-    "variableName": "--color-8737504984386271",
     "name": "Color 5",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-8737504984386271",
+    "__typename": "Color"
   },
   {
     "id": "9545474973581103",
-    "variableName": "--color-9545474973581103",
     "name": "Color 6",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-9545474973581103",
+    "__typename": "Color"
   },
   {
     "id": "9129750224174678",
-    "variableName": "--color-9129750224174678",
     "name": "Color 7",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-9129750224174678",
+    "__typename": "Color"
   },
   {
     "id": "5883875317731349",
-    "variableName": "--color-5883875317731349",
     "name": "Color 8",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-5883875317731349",
+    "__typename": "Color"
   },
   {
     "id": "9394753467998558",
-    "variableName": "--color-9394753467998558",
     "name": "Color 9",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-9394753467998558",
+    "__typename": "Color"
   },
   {
     "id": "04262375767456472",
-    "variableName": "--color-04262375767456472",
     "name": "Color 10",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-04262375767456472",
+    "__typename": "Color"
   },
   {
     "id": "28154164903869394",
-    "variableName": "--color-28154164903869394",
     "name": "Color 11",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-28154164903869394",
+    "__typename": "Color"
   },
   {
     "id": "4379637099786504",
-    "variableName": "--color-4379637099786504",
     "name": "Color 12",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-4379637099786504",
+    "__typename": "Color"
   },
   {
     "id": "11276976243011716",
-    "variableName": "--color-11276976243011716",
     "name": "Color 13",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-11276976243011716",
+    "__typename": "Color"
   },
   {
     "id": "8063591129561682",
-    "variableName": "--color-8063591129561682",
     "name": "Color 14",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-8063591129561682",
+    "__typename": "Color"
   },
   {
     "id": "6806508440878758",
-    "variableName": "--color-6806508440878758",
     "name": "Color 15",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-6806508440878758",
+    "__typename": "Color"
   },
   {
     "id": "23942703858766667",
-    "variableName": "--color-23942703858766667",
     "name": "Color 16",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-23942703858766667",
+    "__typename": "Color"
   },
   {
     "id": "29580698747869527",
-    "variableName": "--color-29580698747869527",
     "name": "Color 17",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-29580698747869527",
+    "__typename": "Color"
   },
   {
     "id": "12803340589356726",
-    "variableName": "--color-12803340589356726",
     "name": "Color 18",
-    "value": "#ffffff"
+    "value": "#ffffff",
+    "variableName": "--color-12803340589356726",
+    "__typename": "Color"
   }
 ]
