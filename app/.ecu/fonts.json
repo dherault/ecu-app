@@ -1,0 +1,15 @@
+[
+  {
+    "id": "nction random() { [native code] }",
+    "name": "Inter",
+    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap",
+    "isVariable": false,
+    "weights": [
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  }
+]
