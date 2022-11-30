@@ -52,6 +52,7 @@
 
 @media screen and (max-width: 478px) {
   .flex {
+    justify-content: center;
   }
 }
 
