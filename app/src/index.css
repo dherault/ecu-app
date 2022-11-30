@@ -251,3 +251,26 @@
   .goo {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .foooo {
+  }
+}
+
+.foooo {
+}
+
+@media screen and (max-width: 991px) {
+  .foooo {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .foooo {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .foooo {
+  }
+}
