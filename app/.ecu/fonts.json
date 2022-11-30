@@ -1,8 +1,7 @@
 [
   {
-    "id": "nction random() { [native code] }",
+    "id": "0",
     "name": "Inter",
-    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap",
     "isVariable": false,
     "weights": [
       300,
@@ -10,6 +9,18 @@
       500,
       700,
       900
+    ],
+    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap",
+    "__typename": "Font"
+  },
+  {
+    "id": "05646508019874963",
+    "name": "Lobster Two",
+    "url": "https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&display=swap",
+    "isVariable": false,
+    "weights": [
+      400,
+      700
     ]
   }
 ]
