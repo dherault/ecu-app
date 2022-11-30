@@ -65,7 +65,7 @@
   {
     "id": "04262375767456472",
     "name": "Color 10",
-    "value": "#ffffff",
+    "value": "#000000",
     "variableName": "--color-04262375767456472",
     "__typename": "Color"
   },
