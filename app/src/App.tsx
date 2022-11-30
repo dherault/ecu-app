@@ -56,7 +56,7 @@ function App(props: AppPropsType) {
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
-        className="max-height foobar"
+        className="max-height"
         data-ecu="VuY5TWpk1O6:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
