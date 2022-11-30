@@ -186,6 +186,7 @@
 .max-height {
   max-height: 64px;
   overflow: auto;
+  position: absolute;
 }
 
 @media screen and (max-width: 991px) {
