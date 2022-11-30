@@ -1,0 +1,23 @@
+// Do not edit comments or something might not work anymore
+/* --
+  * FONTS START
+-- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&display=swap');
+/* --
+  * FONTS END
+-- */
+
+:root {
+  /* --
+    * COLORS START
+  -- */
+  /* --
+    * COLORS END
+  -- */
+}
+
+.div-remove-me {
+  min-width: 16px;
+  min-height: 16px;
+}
