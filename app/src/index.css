@@ -115,7 +115,7 @@
 .width {
   margin-right: auto;
   margin-left: auto;
-  width: 2px;
+  width: 256px;
   min-height: 0px;
   max-height: 64px;
 }
