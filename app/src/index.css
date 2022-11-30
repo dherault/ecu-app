@@ -118,6 +118,7 @@
   width: 256px;
   min-height: 0px;
   max-height: 64px;
+  height: 0px;
 }
 
 @media screen and (max-width: 991px) {
