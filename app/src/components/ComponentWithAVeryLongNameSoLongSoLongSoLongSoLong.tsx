@@ -18,7 +18,7 @@ type ComponentWithAVeryLongNameSoLongSoLongSoLongSoLongPropsType = Record<string
   * EMOJI START
 -- */
 /*
-1f95c
+1f300
 */
 /* --
   * EMOJI END
@@ -27,7 +27,7 @@ type ComponentWithAVeryLongNameSoLongSoLongSoLongSoLongPropsType = Record<string
   * DESCRIPTION START
 -- */
 /*
-
+The app, splendid!!
 */
 /* --
   * DESCRIPTION END
