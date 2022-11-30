@@ -43,7 +43,7 @@ function App(props: AppPropsType) {
       <Div // ecu-display-name Container
         data-ecu="zHpb5haxfm_:0">
         <Text // ecu-display-name Text!
-          className="flex width"
+          className="width"
           data-ecu="zHpb5haxfm_:0_0">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
