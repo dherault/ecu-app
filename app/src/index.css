@@ -154,3 +154,26 @@
   .div-remove-me {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .baz {
+  }
+}
+
+.baz {
+}
+
+@media screen and (max-width: 991px) {
+  .baz {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .baz {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .baz {
+  }
+}
