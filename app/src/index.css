@@ -114,6 +114,7 @@
 
 .width {
   width: 100px;
+  margin-left: auto;
 }
 
 @media screen and (max-width: 991px) {
