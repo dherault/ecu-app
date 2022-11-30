@@ -118,7 +118,7 @@
   width: 128px;
   height: 100px;
   min-height: 0px;
-  max-height: 0px;
+  max-height: 64px;
 }
 
 @media screen and (max-width: 991px) {
