@@ -41,16 +41,16 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div // ecu-display-name Container
-        data-ecu="elMcaJy24Ww:0">
+        data-ecu="w8SgFiOwTU:0">
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="elMcaJy24Ww:0_0">
+          data-ecu="w8SgFiOwTU:0_0">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="width flex"
-        data-ecu="elMcaJy24Ww:1">
+        data-ecu="w8SgFiOwTU:1">
         Red className
       </Text>
       
@@ -58,23 +58,23 @@ function App(props: AppPropsType) {
       />
       <Text
         className="max-height"
-        data-ecu="elMcaJy24Ww:2">
+        data-ecu="w8SgFiOwTU:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
       <Text
         className="😆"
-        data-ecu="elMcaJy24Ww:3">
+        data-ecu="w8SgFiOwTU:3">
         Emoji class
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
       <Text
         className="cool-class flex"
-        data-ecu="elMcaJy24Ww:4">
+        data-ecu="w8SgFiOwTU:4">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="elMcaJy24Ww:5">Then double click here!</Text>
+      <Text data-ecu="w8SgFiOwTU:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
