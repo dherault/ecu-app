@@ -43,7 +43,7 @@
   --spacing-xxsmall: 0.125rem; /* xxsmall */
   --spacing-xsmall: 0.25rem; /* xsmall */
   --spacing-small: 0.5rem; /* small */
-  --spacing-medium: 1rem; /* medium */
+  --spacing-medium: 1px; /* medium */
   --spacing-large: 1.5rem; /* large */
   --spacing-xlarge: 2rem; /* xlarge */
   --spacing-xxlarge: 4rem; /* xxlarge */
