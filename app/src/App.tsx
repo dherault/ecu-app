@@ -49,7 +49,7 @@ function App(props: AppPropsType) {
         </Text>
       </Div>
       <Text // ecu-display-name Red className
-        className="width flex"
+        className="width"
         data-ecu="T-AZ_57oyix:1">
         Red className
       </Text>

@@ -58,3 +58,26 @@
   min-width: 16px;
   min-height: 16px;
 }
+
+@media screen and (min-width: 1280px) {
+  .width {
+  }
+}
+
+.width {
+}
+
+@media screen and (max-width: 991px) {
+  .width {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .width {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .width {
+  }
+}
