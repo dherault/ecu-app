@@ -81,3 +81,26 @@
   .width {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .flex {
+  }
+}
+
+.flex {
+}
+
+@media screen and (max-width: 991px) {
+  .flex {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .flex {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .flex {
+  }
+}
