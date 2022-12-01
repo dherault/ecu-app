@@ -58,9 +58,7 @@ function App(props: AppPropsType) {
       <Text data-ecu="T-AZ_57oyix:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text
-        className="😆"
-        data-ecu="T-AZ_57oyix:3">
+      <Text data-ecu="T-AZ_57oyix:3">
         Emoji class
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
