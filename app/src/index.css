@@ -162,7 +162,6 @@ overflow: auto;
 display: flex;
 align-items: center;
 justify-content: center;
-row-gap: auto;
 min-width: 64px;
 min-height: 64px;
 }
