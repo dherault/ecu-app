@@ -104,3 +104,26 @@
   .flex {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .height-overflow {
+  }
+}
+
+.height-overflow {
+}
+
+@media screen and (max-width: 991px) {
+  .height-overflow {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .height-overflow {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .height-overflow {
+  }
+}
