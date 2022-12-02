@@ -111,7 +111,7 @@
 }
 
 .height-overflow {
-max-height: 100px;
+max-height: 24px;
 overflow: auto;
 }
 
