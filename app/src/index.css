@@ -112,6 +112,7 @@
 
 .height-overflow {
 max-height: 100px;
+overflow: auto;
 }
 
 @media screen and (max-width: 991px) {
