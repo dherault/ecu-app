@@ -59,7 +59,7 @@
 -- */
 html {
   font-size: 16;
-  color: ;
+  color;
   /* You should not modify the following */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
