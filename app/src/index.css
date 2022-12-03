@@ -58,17 +58,18 @@
   * ROOT CSS START
 -- */
 html {
-  fontSize: 16,
+  font-size: 16;
+  
   /* You should not modify the following */
-  -webkit-font-smoothing: antialiased,
-  -moz-osx-font-smoothing: grayscale,
-  text-rendering: optimizeLegibility,
-  box-sizing: border-box,
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
 }
 
 /* You should not modify the following */
 *, *:before, *:after {
-  box-sizing: inherit,
+  box-sizing: inherit;
 }
 /* --
   * ROOT CSS END
