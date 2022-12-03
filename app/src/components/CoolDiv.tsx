@@ -32,9 +32,9 @@ The app, splendid!!
 function CoolDiv(props: CoolDivPropsType) {
   return (
     <Div // ecu-display-name The cool div
-      data-ecu="XvI50_7SA9:0">
+      data-ecu="yG4iOl9Q6bG:0">
       <Text // ecu-display-name Some text
-        data-ecu="XvI50_7SA9:0_0">
+        data-ecu="yG4iOl9Q6bG:0_0">
         Edit me I'm a CoolDiv
       </Text>
     </Div>

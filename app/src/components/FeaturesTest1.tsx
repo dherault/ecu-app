@@ -32,13 +32,13 @@ function FeaturesTest1(props: FeaturesTest1PropsType) {
     <>
       <Div
         className="div-remove-me"
-        data-ecu="ngL4wJeAUa:0" />
+        data-ecu="7ROxROCCuu:0" />
       
       
       
       <Text
         className="feature-test-text"
-        data-ecu="ngL4wJeAUa:1">
+        data-ecu="7ROxROCCuu:1">
         Edit me I'm famous!
       </Text>
     </>
