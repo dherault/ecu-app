@@ -72,7 +72,7 @@ html {
 }
 
 .edit-me {
-  width: calcvar(--spacing-3bwkenWwQ) /* jumbo */;
+  width: calc(var(--spacing-3bwkenWwQ) /* jumbo */ +@);
 }
 /* --
   * ROOT CSS END
