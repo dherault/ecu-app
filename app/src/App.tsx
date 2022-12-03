@@ -41,16 +41,16 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div // ecu-display-name Container
-        data-ecu="T-AZ_57oyix:0">
+        data-ecu="wAkGTDHd6lh:0">
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="T-AZ_57oyix:0_0">
+          data-ecu="wAkGTDHd6lh:0_0">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="center"
-        data-ecu="T-AZ_57oyix:1">
+        data-ecu="wAkGTDHd6lh:1">
         Red className
       </Text>
       
@@ -58,19 +58,19 @@ function App(props: AppPropsType) {
       />
       <Text
         className="height-overflow"
-        data-ecu="T-AZ_57oyix:2">
+        data-ecu="wAkGTDHd6lh:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text data-ecu="T-AZ_57oyix:3">
+      <Text data-ecu="wAkGTDHd6lh:3">
         Emoji class
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text data-ecu="T-AZ_57oyix:4">
+      <Text data-ecu="wAkGTDHd6lh:4">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="T-AZ_57oyix:5">Then double click here!</Text>
+      <Text data-ecu="wAkGTDHd6lh:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
