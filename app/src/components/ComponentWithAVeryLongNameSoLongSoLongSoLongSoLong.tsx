@@ -35,7 +35,7 @@ The app, splendid!!
 
 function ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong(props: ComponentWithAVeryLongNameSoLongSoLongSoLongSoLongPropsType) {
   return (
-    <Text data-ecu="o04PVdDNjsB:0">
+    <Text data-ecu="gxGYFwJRrt:0">
       Edit me I'm famous!
     </Text>
   )
