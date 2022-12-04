@@ -1,3 +1,4 @@
+// ecu-file-id  Ymb0tdzaIa
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 

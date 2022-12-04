@@ -1,3 +1,4 @@
+// ecu-file-id Z19dDTvUZ7
 import { Div, Text } from 'ecu'
 
 /* --
@@ -32,9 +33,9 @@ The app, splendid!!
 function CoolDiv(props: CoolDivPropsType) {
   return (
     <Div // ecu-display-name The cool div
-      data-ecu="_1F7nrW_-w6:0">
+      data-ecu="r-yDSFtnTu:0">
       <Text // ecu-display-name Some text
-        data-ecu="_1F7nrW_-w6:0_0">
+        data-ecu="r-yDSFtnTu:0_0">
         Edit me I'm a CoolDiv
       </Text>
     </Div>

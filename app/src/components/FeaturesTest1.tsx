@@ -1,3 +1,4 @@
+// ecu-file-id OByDvrZA-S
 /* --
 * IMPORTS START
 -- */
@@ -32,13 +33,10 @@ function FeaturesTest1(props: FeaturesTest1PropsType) {
     <>
       <Div
         className="div-remove-me"
-        data-ecu="ozQ_aT9UnFx:0" />
-      
-      
-      
+        data-ecu="0X5QLjV2oX:0" />
       <Text
         className="feature-test-text"
-        data-ecu="ozQ_aT9UnFx:1">
+        data-ecu="0X5QLjV2oX:1">
         Edit me I'm famous!
       </Text>
     </>

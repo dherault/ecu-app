@@ -1,3 +1,4 @@
+// ecu-file-id f579Fz3ehv
 /* --
 * IMPORTS START
 -- */
@@ -29,7 +30,7 @@ type AnnotherComponentYetPropsType = Record<string, never>;
 
 function AnnotherComponentYet(props: AnnotherComponentYetPropsType) {
   return (
-    <Text data-ecu="iquy-tfgs5E:0">
+    <Text data-ecu="FHQmY1-KQX:0">
       Edit me I'm famous!
     </Text>
   )

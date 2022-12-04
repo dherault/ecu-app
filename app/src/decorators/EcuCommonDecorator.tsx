@@ -1,3 +1,4 @@
+// ecu-file-id SjA6BtCvTQ
 /* --
  * DO NOT DELETE THIS FILE
  * EcuCommonDecorator.tsx is used to decorate any Ecu component

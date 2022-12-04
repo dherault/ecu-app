@@ -1,3 +1,4 @@
+// ecu-file-id kfs48rUV_i
 /* --
 * IMPORTS START
 -- */
@@ -29,7 +30,7 @@ type ComponentAgainPropsType = Record<string, never>;
 
 function ComponentAgain(props: ComponentAgainPropsType) {
   return (
-    <Text data-ecu="BXnojtbexbK:0">
+    <Text data-ecu="uIvnu2HqXe:0">
       Edit me I'm famous!
     </Text>
   )

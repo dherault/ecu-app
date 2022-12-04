@@ -1,3 +1,4 @@
+// ecu-file-id 4m9VKGmFAa
 import { Text } from 'ecu'
 
 import CoolDiv from './CoolDiv'
@@ -35,7 +36,7 @@ function TripleCoolDiv(props: TripleCoolDivPropsType) {
       <CoolDiv />
       <CoolDiv />
       <CoolDiv />
-      
+
     </>
   )
 }

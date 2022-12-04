@@ -1,3 +1,4 @@
+// ecu-file-id U8eUJ6eAPN
 /* --
 * IMPORTS START
 -- */
@@ -29,7 +30,7 @@ type AnotherComponentPropsType = Record<string, never>;
 
 function AnotherComponent(props: AnotherComponentPropsType) {
   return (
-    <Text data-ecu="2LB4Hxm-P7o:0">
+    <Text data-ecu="HHQ41dSRJ_:0">
       Edit me I'm famous!
     </Text>
   )
