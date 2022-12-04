@@ -1,4 +1,4 @@
-// ecu-file-id YThlXDd3C
+// ecu-file-id eHSY7bEvM
 import { Div, Text } from 'ecu'
 
 import ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong from './components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong'
@@ -41,39 +41,40 @@ The app, splendid!!
 function App(props: AppPropsType) {
   return (
     <>
+      <Text data-ecu="-dhHA4b8dY:0">Edit me I'm a Text</Text>
       <Div // ecu-display-name Container
-        data-ecu="0zowEmoPX:0">
+        data-ecu="-dhHA4b8dY:1">
         <Div
           className="flex-0"
-          data-ecu="0zowEmoPX:0_0" />
+          data-ecu="-dhHA4b8dY:1_0" />
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="0zowEmoPX:0_2">
+          data-ecu="-dhHA4b8dY:1_1">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="center"
-        data-ecu="0zowEmoPX:1">
+        data-ecu="-dhHA4b8dY:2">
         Red className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
         className="height-overflow"
-        data-ecu="0zowEmoPX:2">
+        data-ecu="-dhHA4b8dY:3">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text data-ecu="0zowEmoPX:3">
+      <Text data-ecu="-dhHA4b8dY:4">
         Emoji className
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text data-ecu="0zowEmoPX:4">
+      <Text data-ecu="-dhHA4b8dY:5">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="0zowEmoPX:5">Then double click here!</Text>
+      <Text data-ecu="-dhHA4b8dY:6">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
