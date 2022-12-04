@@ -47,7 +47,7 @@ function App(props: AppPropsType) {
           data-ecu="MpTYaMwlQwW:0_0" />
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="MpTYaMwlQwW:0_1">
+          data-ecu="MpTYaMwlQwW:0_2">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
