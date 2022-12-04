@@ -41,39 +41,38 @@ function App(props: AppPropsType) {
   return (
     <>
       <Div // ecu-display-name Container
-        data-ecu="MpTYaMwlQwW:0">
+        data-ecu="qKAaOyYS27K:0">
         <Div
           className="flex-0"
-          data-ecu="MpTYaMwlQwW:0_0" />
+          data-ecu="qKAaOyYS27K:0_0" />
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="MpTYaMwlQwW:0_2">
+          data-ecu="qKAaOyYS27K:0_2">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="center"
-        data-ecu="MpTYaMwlQwW:1">
+        data-ecu="qKAaOyYS27K:1">
         Red className
       </Text>
-      
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
         className="height-overflow"
-        data-ecu="MpTYaMwlQwW:2">
+        data-ecu="qKAaOyYS27K:2">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text data-ecu="MpTYaMwlQwW:3">
+      <Text data-ecu="qKAaOyYS27K:3">
         Emoji class
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text data-ecu="MpTYaMwlQwW:4">
+      <Text data-ecu="qKAaOyYS27K:4">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="MpTYaMwlQwW:5">Then double click here!</Text>
+      <Text data-ecu="qKAaOyYS27K:5">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
