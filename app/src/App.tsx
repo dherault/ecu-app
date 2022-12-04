@@ -42,44 +42,47 @@ function App(props: AppPropsType) {
   return (
     <>
       <Text data-ecu="-dhHA4b8dY:0">Edit me I'm a Text</Text>
+      <Div
+        className="div-remove-me"
+        data-ecu="-dhHA4b8dY:1" />
       <Div // ecu-display-name Container
-        data-ecu="-dhHA4b8dY:1">
+        data-ecu="-dhHA4b8dY:2">
         <Div
           className="flex-0"
-          data-ecu="-dhHA4b8dY:1_0">
-          <Text data-ecu="-dhHA4b8dY:1_0_0">Edit me I'm a Text</Text>
-          <Text data-ecu="-dhHA4b8dY:1_0_1">Edit me I'm a Text</Text>
-          <Text data-ecu="-dhHA4b8dY:1_0_2">Edit me I'm a Text</Text>
-          <Text data-ecu="-dhHA4b8dY:1_0_3">Edit me I'm a Text</Text>
+          data-ecu="-dhHA4b8dY:2_0">
+          <Text data-ecu="-dhHA4b8dY:2_0_0">Edit me I'm a Text</Text>
+          <Text data-ecu="-dhHA4b8dY:2_0_1">Edit me I'm a Text</Text>
+          <Text data-ecu="-dhHA4b8dY:2_0_2">Edit me I'm a Text</Text>
+          <Text data-ecu="-dhHA4b8dY:2_0_3">Edit me I'm a Text</Text>
         </Div>
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="-dhHA4b8dY:1_1">
+          data-ecu="-dhHA4b8dY:2_1">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="center"
-        data-ecu="-dhHA4b8dY:2">
+        data-ecu="-dhHA4b8dY:3">
         Red className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
         className="height-overflow"
-        data-ecu="-dhHA4b8dY:3">
+        data-ecu="-dhHA4b8dY:4">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text data-ecu="-dhHA4b8dY:4">
+      <Text data-ecu="-dhHA4b8dY:5">
         Emoji className
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text data-ecu="-dhHA4b8dY:5">
+      <Text data-ecu="-dhHA4b8dY:6">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="-dhHA4b8dY:6">Then double click here!</Text>
+      <Text data-ecu="-dhHA4b8dY:7">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
