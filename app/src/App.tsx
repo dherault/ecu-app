@@ -48,7 +48,7 @@ function App(props: AppPropsType) {
           data-ecu="0zowEmoPX:0_0" />
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="0zowEmoPX:0_1">
+          data-ecu="0zowEmoPX:0_2">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
