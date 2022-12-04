@@ -44,7 +44,9 @@ function App(props: AppPropsType) {
       <Text data-ecu="-dhHA4b8dY:0">Edit me I'm a Text</Text>
       <Div
         className="div-remove-me"
-        data-ecu="-dhHA4b8dY:1" />
+        data-ecu="-dhHA4b8dY:1">
+        <Text data-ecu="-dhHA4b8dY:1_0">Edit me I'm a Text</Text>
+      </Div>
       <Div // ecu-display-name Container
         data-ecu="-dhHA4b8dY:2">
         <Div
