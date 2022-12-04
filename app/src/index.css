@@ -201,3 +201,26 @@ min-height: 64px;
   .center {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .flex-0 {
+  }
+}
+
+.flex-0 {
+}
+
+@media screen and (max-width: 991px) {
+  .flex-0 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .flex-0 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .flex-0 {
+  }
+}
