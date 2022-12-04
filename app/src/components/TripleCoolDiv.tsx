@@ -30,6 +30,8 @@ type TripleCoolDivPropsType = Record<string, never>;
   * DESCRIPTION END
 -- */
 
+// ecu-function-id 0ImEWcAwZz
+// ecu-function-id HnoRBGS2cE
 function TripleCoolDiv(props: TripleCoolDivPropsType) {
   return (
     <>

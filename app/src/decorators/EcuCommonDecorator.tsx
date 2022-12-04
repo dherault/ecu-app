@@ -9,28 +9,27 @@ import { ReactNode, useEffect, useState } from 'react'
 import indexCss from '../index.css?inline'
 
 type EcuCommonDecoratorPropsType = {
-  head?: HTMLHeadElement
-  children: ReactNode
-}
+  head?: HTMLHeadElement;
+  children: ReactNode;
+};
 
-function EcuCommonDecorator({ children, head }: EcuCommonDecoratorPropsType) {
+// ecu-function-id tZ3fGhfXML
+// ecu-function-id LtjBP2crJG
+function EcuCommonDecorator({
+  children,
+  head,
+}: EcuCommonDecoratorPropsType) {
   const [styleElement, setStyleElement] = useState<HTMLStyleElement | null>(null)
-
   useEffect(() => {
     if (!head) return
-
     if (styleElement) {
       head.removeChild(styleElement)
     }
-
     const style = document.createElement('style')
-
     style.innerHTML = indexCss
-
     head.appendChild(style)
-
     setStyleElement(style)
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [head])
 
   return children

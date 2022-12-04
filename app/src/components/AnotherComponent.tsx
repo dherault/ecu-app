@@ -28,9 +28,11 @@ type AnotherComponentPropsType = Record<string, never>;
   * DESCRIPTION END
 -- */
 
+// ecu-function-id dWjiGli_by
+// ecu-function-id icoMldAz2u
 function AnotherComponent(props: AnotherComponentPropsType) {
   return (
-    <Text data-ecu="8JppIXS1ub:0">
+    <Text data-ecu="icoMldAz2u:0">
       Edit me I'm famous!
     </Text>
   )

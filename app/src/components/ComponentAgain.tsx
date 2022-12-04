@@ -28,9 +28,11 @@ type ComponentAgainPropsType = Record<string, never>;
   * DESCRIPTION END
 -- */
 
+// ecu-function-id QIaJh7I50O
+// ecu-function-id rPXb3n782z
 function ComponentAgain(props: ComponentAgainPropsType) {
   return (
-    <Text data-ecu="kOAUW1wObb:0">
+    <Text data-ecu="rPXb3n782z:0">
       Edit me I'm famous!
     </Text>
   )

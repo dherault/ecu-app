@@ -28,9 +28,11 @@ type SomeComponentPropsType = Record<string, never>;
   * DESCRIPTION END
 -- */
 
+// ecu-function-id xc2QA69t1a
+// ecu-function-id Sgc_ykaOsF
 function SomeComponent(props: SomeComponentPropsType) {
   return (
-    <Text data-ecu="8Ks3czuCIZ:0">
+    <Text data-ecu="Sgc_ykaOsF:0">
       Edit me I'm famous!
     </Text>
   )

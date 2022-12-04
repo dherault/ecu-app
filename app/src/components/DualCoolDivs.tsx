@@ -35,6 +35,8 @@ The app, splendid!!
 /* --
   * DESCRIPTION END
 -- */
+// ecu-function-id ejHSLpdr6e
+// ecu-function-id UWcHEXJyN4
 function DualCoolDivs(props: DualCoolDivsPropsType) {
   return (
     <>

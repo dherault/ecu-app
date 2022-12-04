@@ -30,12 +30,14 @@ The app, splendid!!
 /* --
   * DESCRIPTION END
 -- */
+// ecu-function-id Kr6gVBTnGQ
+// ecu-function-id ODQl5-IfJs
 function CoolDiv(props: CoolDivPropsType) {
   return (
     <Div // ecu-display-name The cool div
-      data-ecu="vgQ72TraaC:0">
+      data-ecu="ODQl5-IfJs:0">
       <Text // ecu-display-name Some text
-        data-ecu="vgQ72TraaC:0_0">
+        data-ecu="ODQl5-IfJs:0_0">
         Edit me I'm a CoolDiv
       </Text>
     </Div>
