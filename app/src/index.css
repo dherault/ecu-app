@@ -210,7 +210,7 @@ min-height: 64px;
 
 .flex-0 {
 display: flex;
-justify-content: space-between;
+justify-content: space-evenly;
 }
 
 @media screen and (max-width: 991px) {
