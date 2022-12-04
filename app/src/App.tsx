@@ -48,6 +48,7 @@ function App(props: AppPropsType) {
           className="flex-0"
           data-ecu="-dhHA4b8dY:1_0">
           <Text data-ecu="-dhHA4b8dY:1_0_0">Edit me I'm a Text</Text>
+          <Text data-ecu="-dhHA4b8dY:1_0_1">Edit me I'm a Text</Text>
         </Div>
         <Text // ecu-display-name Text!
           className="width"
