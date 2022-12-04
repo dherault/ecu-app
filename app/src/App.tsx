@@ -55,7 +55,7 @@ function App(props: AppPropsType) {
       <Text // ecu-display-name Red className
         className="center"
         data-ecu="0zowEmoPX:1">
-        Red classNam
+        Red className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
