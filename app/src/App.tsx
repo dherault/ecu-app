@@ -42,9 +42,7 @@ function App(props: AppPropsType) {
     <>
       <Div // ecu-display-name Container
         data-ecu="MpTYaMwlQwW:0">
-        <Div
-          className="div-remove-me"
-          data-ecu="MpTYaMwlQwW:0_0" />
+        <Div data-ecu="MpTYaMwlQwW:0_0" />
         <Text // ecu-display-name Text!
           className="width"
           data-ecu="MpTYaMwlQwW:0_1">
