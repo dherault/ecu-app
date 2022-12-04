@@ -50,6 +50,7 @@ function App(props: AppPropsType) {
           <Text data-ecu="-dhHA4b8dY:1_0_0">Edit me I'm a Text</Text>
           <Text data-ecu="-dhHA4b8dY:1_0_1">Edit me I'm a Text</Text>
           <Text data-ecu="-dhHA4b8dY:1_0_2">Edit me I'm a Text</Text>
+          <Text data-ecu="-dhHA4b8dY:1_0_3">Edit me I'm a Text</Text>
         </Div>
         <Text // ecu-display-name Text!
           className="width"
