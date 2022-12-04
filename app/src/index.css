@@ -227,3 +227,26 @@ justify-content: space-evenly;
   .flex-0 {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .grid {
+  }
+}
+
+.grid {
+}
+
+@media screen and (max-width: 991px) {
+  .grid {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .grid {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .grid {
+  }
+}

@@ -45,7 +45,7 @@ function App(props: AppPropsType) {
     <>
       <Text data-ecu="ZU2pYPalY:0">Edit me I'm a Text</Text>
       <Div
-        className="div-remove-me"
+        className="grid"
         data-ecu="ZU2pYPalY:1">
         <Text data-ecu="ZU2pYPalY:1_0">Edit me I'm a Text</Text>
         <Text data-ecu="ZU2pYPalY:1_1">Edit me I'm a Text</Text>
