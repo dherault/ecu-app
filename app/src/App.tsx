@@ -53,9 +53,7 @@ function App(props: AppPropsType) {
       </Div>
       <Div // ecu-display-name Container
         data-ecu="ZU2pYPalY:2">
-        <Div
-          className="flex-0"
-          data-ecu="ZU2pYPalY:2_0">
+        <Div data-ecu="ZU2pYPalY:2_0">
           <Text data-ecu="ZU2pYPalY:2_0_0">Edit me I'm a Text</Text>
           <Text data-ecu="ZU2pYPalY:2_0_1">Edit me I'm a Text</Text>
           <Text data-ecu="ZU2pYPalY:2_0_2">Edit me I'm a Text</Text>
