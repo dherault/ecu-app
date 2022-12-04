@@ -21,7 +21,7 @@ type DualCoolDivsPropsType = Record<string, never>;
   * EMOJI START
 -- */
 /*
-1f300
+1f919-1f3fb
 */
 /* --
   * EMOJI END
