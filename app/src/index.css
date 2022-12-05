@@ -238,7 +238,7 @@ display: grid;
 justify-content: stretch;
 row-gap: 8px;
 column-gap: 8px;
-font-family: Inter, sans-serif;
+font-family: "Lobster Two", sans-serif;
 }
 
 @media screen and (max-width: 991px) {
