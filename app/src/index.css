@@ -238,6 +238,7 @@ display: grid;
 justify-content: stretch;
 row-gap: 8px;
 column-gap: 8px;
+font-family: monospace;
 }
 
 @media screen and (max-width: 991px) {
