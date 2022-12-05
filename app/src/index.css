@@ -234,6 +234,7 @@ justify-content: space-evenly;
 }
 
 .grid {
+display: flex;
 justify-content: stretch;
 grid-auto-flow: column dense;
 }
