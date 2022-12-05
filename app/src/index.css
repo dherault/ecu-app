@@ -241,6 +241,7 @@ column-gap: 8px;
 font-family: "Lobster Two", sans-serif;
 font-size: 24px;
 line-height: 100%;
+color: #f24b4b;
 }
 
 @media screen and (max-width: 991px) {
