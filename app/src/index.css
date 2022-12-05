@@ -234,7 +234,7 @@ justify-content: space-evenly;
 }
 
 .grid {
-display: flex;
+display: grid;
 justify-content: stretch;
 row-gap: 8px;
 column-gap: 8px;
