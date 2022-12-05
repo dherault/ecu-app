@@ -234,10 +234,10 @@ justify-content: space-evenly;
 }
 
 .grid {
-display: flex;
+display: grid;
+align-items: flex-start;
 justify-items: flex-start;
 justify-content: stretch;
-align-items: flex-start;
 }
 
 @media screen and (max-width: 991px) {
