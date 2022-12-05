@@ -236,7 +236,7 @@ justify-content: space-evenly;
 .grid {
 display: grid;
 justify-content: stretch;
-align-content: center;
+align-content: flex-start;
 }
 
 @media screen and (max-width: 991px) {
