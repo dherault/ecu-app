@@ -59,7 +59,7 @@ function App(props: AppPropsType) {
           <Text data-ecu="ZU2pYPalY:2_0_0">Text 1</Text>
           <Text data-ecu="ZU2pYPalY:2_0_1">Text 2</Text>
           <Text data-ecu="ZU2pYPalY:2_0_2">Text 3</Text>
-          <Text data-ecu="ZU2pYPalY:2_0_3">Edit me I'm a Text</Text>
+          <Text data-ecu="ZU2pYPalY:2_0_3">Text 4</Text>
         </Div>
         <Text // ecu-display-name Text!
           className="width"
