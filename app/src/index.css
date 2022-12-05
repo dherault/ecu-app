@@ -235,6 +235,7 @@ justify-content: space-evenly;
 
 .grid {
 display: grid;
+justify-content: center;
 align-content: flex-start;
 }
 
