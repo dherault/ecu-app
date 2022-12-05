@@ -236,7 +236,7 @@ justify-content: space-evenly;
 .grid {
 display: grid;
 justify-content: stretch;
-grid-auto-flow: row dense;
+grid-auto-flow: column dense;
 }
 
 @media screen and (max-width: 991px) {
