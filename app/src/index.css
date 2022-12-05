@@ -239,6 +239,7 @@ justify-content: stretch;
 row-gap: 8px;
 column-gap: 8px;
 font-family: monospace;
+font-weight: 700;
 }
 
 @media screen and (max-width: 991px) {
