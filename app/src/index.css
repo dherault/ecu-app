@@ -236,6 +236,7 @@ justify-content: space-evenly;
 .grid {
 display: grid;
 justify-content: stretch;
+row-gap: 16px;
 }
 
 @media screen and (max-width: 991px) {
