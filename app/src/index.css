@@ -242,7 +242,7 @@ font-family: "Lobster Two", sans-serif;
 font-size: 24px;
 text-align: center;
 line-height: 100%;
-color: #fa3939;
+color: var(--color-5883875317731349);
 }
 
 @media screen and (max-width: 991px) {
