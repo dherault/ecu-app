@@ -30,15 +30,16 @@ type FeaturesTest1PropsType = Record<string, never>;
 
 // ecu-function-id Ym5rtFeEgx
 // ecu-function-id dJ_-1eZgg_
+// ecu-function-id 3eZVQluVZy
 function FeaturesTest1(props: FeaturesTest1PropsType) {
   return (
     <>
       <Div
         className="div-remove-me"
-        data-ecu="dJ_-1eZgg_:0" />
+        data-ecu="3eZVQluVZy:0" />
       <Text
         className="feature-test-text"
-        data-ecu="dJ_-1eZgg_:1">
+        data-ecu="3eZVQluVZy:1">
         Edit me I'm famous!
       </Text>
     </>

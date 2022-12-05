@@ -36,9 +36,10 @@ The app, splendid!!
 
 // ecu-function-id kxkxy7l5q_
 // ecu-function-id CWVcbiJcov
+// ecu-function-id OBkpmfes5L
 function ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong(props: ComponentWithAVeryLongNameSoLongSoLongSoLongSoLongPropsType) {
   return (
-    <Text data-ecu="CWVcbiJcov:0">
+    <Text data-ecu="OBkpmfes5L:0">
       Edit me I'm famous!
     </Text>
   )

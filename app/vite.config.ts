@@ -7,5 +7,6 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     include: ['react-dom'],
+    exclude: ['ecu-client'],
   },
 })

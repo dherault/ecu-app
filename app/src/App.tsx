@@ -40,55 +40,56 @@ The app, splendid!!
 
 // ecu-function-id 4inI1VgNV
 // ecu-function-id ZU2pYPalY
+// ecu-function-id Ysm52JVO0
 function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="ZU2pYPalY:0">Edit me I'm a Text</Text>
+      <Text data-ecu="Ysm52JVO0:0">Edit me I'm a Text</Text>
       <Div
         className="grid"
-        data-ecu="ZU2pYPalY:1">
-        <Text data-ecu="ZU2pYPalY:1_0">Edit me I'm a Text 1</Text>
-        <Text data-ecu="ZU2pYPalY:1_1">Edit me I'm a Text 2</Text>
-        <Text data-ecu="ZU2pYPalY:1_2">Edit me I'm a Text 3</Text>
+        data-ecu="Ysm52JVO0:1">
+        <Text data-ecu="Ysm52JVO0:1_0">Edit me I'm a Text 1</Text>
+        <Text data-ecu="Ysm52JVO0:1_1">Edit me I'm a Text 2</Text>
+        <Text data-ecu="Ysm52JVO0:1_2">Edit me I'm a Text 3</Text>
       </Div>
       <Div // ecu-display-name Container
-        data-ecu="ZU2pYPalY:2">
+        data-ecu="Ysm52JVO0:2">
         <Div
           className="flex-0"
-          data-ecu="ZU2pYPalY:2_0">
-          <Text data-ecu="ZU2pYPalY:2_0_0">Text 1</Text>
-          <Text data-ecu="ZU2pYPalY:2_0_1">Text 2</Text>
-          <Text data-ecu="ZU2pYPalY:2_0_2">Text 3</Text>
-          <Text data-ecu="ZU2pYPalY:2_0_3">Text 4</Text>
+          data-ecu="Ysm52JVO0:2_0">
+          <Text data-ecu="Ysm52JVO0:2_0_0">Text 1</Text>
+          <Text data-ecu="Ysm52JVO0:2_0_1">Text 2</Text>
+          <Text data-ecu="Ysm52JVO0:2_0_2">Text 3</Text>
+          <Text data-ecu="Ysm52JVO0:2_0_3">Text 4</Text>
         </Div>
         <Text // ecu-display-name Text!
           className="width"
-          data-ecu="ZU2pYPalY:2_1">
+          data-ecu="Ysm52JVO0:2_1">
           {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
         </Text>
       </Div>
       <Text // ecu-display-name Red className
         className="center"
-        data-ecu="ZU2pYPalY:3">
+        data-ecu="Ysm52JVO0:3">
         Red className
       </Text>
       <CoolDiv // ecu-display-name Some cool div
       />
       <Text
         className="height-overflow"
-        data-ecu="ZU2pYPalY:4">
+        data-ecu="Ysm52JVO0:4">
         {'1\n2\n3\n4\n5\n6'}
       </Text>
-      <Text data-ecu="ZU2pYPalY:5">
+      <Text data-ecu="Ysm52JVO0:5">
         Emoji className
       </Text>
       <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
       />
-      <Text data-ecu="ZU2pYPalY:6">
+      <Text data-ecu="Ysm52JVO0:6">
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="ZU2pYPalY:7">Then double click here!</Text>
+      <Text data-ecu="Ysm52JVO0:7">Then double click here!</Text>
       <DualCoolDivs />
     </>
   )
