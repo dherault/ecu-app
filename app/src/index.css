@@ -234,7 +234,7 @@ justify-content: space-evenly;
 }
 
 .grid {
-display: flex;
+display: grid;
 justify-items: flex-start;
 justify-content: stretch;
 }
