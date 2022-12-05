@@ -237,7 +237,7 @@ justify-content: space-evenly;
 display: flex;
 justify-content: stretch;
 grid-auto-flow: column dense;
-flex-wrap: wrap;
+flex-wrap: wrap-reverse;
 }
 
 @media screen and (max-width: 991px) {
