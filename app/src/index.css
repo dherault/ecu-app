@@ -239,7 +239,7 @@ justify-content: stretch;
 row-gap: 8px;
 column-gap: 8px;
 font-family: cursive;
-font-weight: 600;
+font-weight: 300;
 }
 
 @media screen and (max-width: 991px) {
