@@ -287,3 +287,26 @@ justify-content: space-evenly;
   .green {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .green-then-blue {
+  }
+}
+
+.green-then-blue {
+}
+
+@media screen and (max-width: 991px) {
+  .green-then-blue {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .green-then-blue {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .green-then-blue {
+  }
+}

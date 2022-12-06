@@ -49,7 +49,9 @@ function App(props: AppPropsType) {
         className="grid"
         data-ecu="Ysm52JVO0:1">
         <Text data-ecu="Ysm52JVO0:1_0">Edit me I'm a Text 1</Text>
-        <Text data-ecu="Ysm52JVO0:1_1">
+        <Text
+          className="green-then-blue"
+          data-ecu="Ysm52JVO0:1_1">
           Edit me I'm a Text 2
         </Text>
         <Text data-ecu="Ysm52JVO0:1_2">Edit me I'm a Text 3</Text>
