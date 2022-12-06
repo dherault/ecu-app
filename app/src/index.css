@@ -212,6 +212,7 @@ html {
 
 @media screen and (max-width: 767px) {
   .bp-order {
+    color: inherit;
   }
 }
 
