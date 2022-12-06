@@ -287,6 +287,9 @@ html {
 
 @media screen and (max-width: 991px) {
   .bp-order-4 {
+    text-align: center;
+    text-decoration: overline;
+    color: inherit;
   }
 }
 
