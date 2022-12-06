@@ -288,14 +288,16 @@ justify-content: space-evenly;
   }
 }
 
+
+
+.green-then-blue {
+  color: var(--color-16773572549573434);
+}
+
 @media screen and (min-width: 1280px) {
   .green-then-blue {
     color: var(--color-9394753467998558);
   }
-}
-
-.green-then-blue {
-  color: var(--color-16773572549573434);
 }
 
 @media screen and (max-width: 991px) {
@@ -312,5 +314,6 @@ justify-content: space-evenly;
 
 @media screen and (max-width: 478px) {
   .green-then-blue {
+    color: var(--color-9129750224174678);
   }
 }
