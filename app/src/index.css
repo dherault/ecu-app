@@ -302,6 +302,7 @@ html {
 }
 
 .big-space {
+  margin-top: 96px;
 }
 
 @media screen and (min-width: 1280px) {
