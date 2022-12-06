@@ -238,6 +238,7 @@ html {
 
 @media screen and (max-width: 767px) {
   .bp-order-2 {
+    color: var(--color-9129750224174678);
   }
 }
 
