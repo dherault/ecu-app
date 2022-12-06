@@ -220,3 +220,26 @@ html {
   .bp-order {
   }
 }
+
+.bp-order-2 {
+}
+
+@media screen and (min-width: 1280px) {
+  .bp-order-2 {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .bp-order-2 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bp-order-2 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .bp-order-2 {
+  }
+}
