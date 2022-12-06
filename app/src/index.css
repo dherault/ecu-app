@@ -268,7 +268,7 @@ justify-content: space-evenly;
 }
 
 .green {
-  color: var(--color-16773572549573434);
+  color: inherit;
 }
 
 @media screen and (max-width: 991px) {
