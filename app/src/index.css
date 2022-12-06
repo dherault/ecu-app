@@ -263,6 +263,7 @@ html {
 
 @media screen and (max-width: 767px) {
   .bp-order-3 {
+    color: var(--color-5883875317731349);
   }
 }
 
