@@ -274,6 +274,7 @@ html {
 
 .bp-order-4 {
   color: var(--color-16086423139333728);
+  text-align: center;
 }
 
 @media screen and (min-width: 1280px) {
