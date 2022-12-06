@@ -247,6 +247,7 @@ justify-content: space-evenly;
 
 @media screen and (max-width: 991px) {
   .grid {
+    color: var(--color-5883875317731349); /* Chartreuse */
   }
 }
 
