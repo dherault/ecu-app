@@ -193,3 +193,26 @@ html {
     color: var(--color-9129750224174678);
   }
 }
+
+.bp-order {
+}
+
+@media screen and (min-width: 1280px) {
+  .bp-order {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .bp-order {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bp-order {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .bp-order {
+  }
+}

@@ -73,6 +73,7 @@ function App(props: AppPropsType) {
         </Text>
       </Div>
       <Text // ecu-display-name Red className
+        className="bp-order"
         data-ecu="Ysm52JVO0:3">
         Red className
       </Text>
