@@ -206,6 +206,7 @@ html {
 
 @media screen and (max-width: 991px) {
   .bp-order {
+    color: #fa3939;
   }
 }
 
