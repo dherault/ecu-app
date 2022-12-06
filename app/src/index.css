@@ -242,7 +242,8 @@ justify-content: space-evenly;
   font-size: 24px;
   text-align: center;
   line-height: 100%;
-  color: var(--color-9545474973581103); /* Pink */
+  color: var(--color-9545474973581103);
+  font-style: italic;
 }
 
 @media screen and (max-width: 991px) {
