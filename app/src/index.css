@@ -334,8 +334,8 @@ html {
 }
 
 .bp-order-5 {
-  text-decoration: inherit;
   font-family: "Lobster Two", sans-serif;
+  text-decoration: inherit;
 }
 
 @media screen and (min-width: 1280px) {
