@@ -16,6 +16,7 @@ type EcuCommonDecoratorPropsType = {
 // ecu-function-id tZ3fGhfXML
 // ecu-function-id LtjBP2crJG
 // ecu-function-id 5HMdODh2lD
+// ecu-function-id M4XXQQelOS
 function EcuCommonDecorator({
   children,
   head,

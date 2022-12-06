@@ -31,9 +31,10 @@ type AnnotherComponentYetPropsType = Record<string, never>;
 // ecu-function-id a1akcqyzf
 // ecu-function-id wlxVQA-uY
 // ecu-function-id x0t1IoqA7
+// ecu-function-id D1Qh_SaV7
 function AnnotherComponentYet(props: AnnotherComponentYetPropsType) {
   return (
-    <Text data-ecu="x0t1IoqA7:0">
+    <Text data-ecu="D1Qh_SaV7:0">
       Edit me I'm famous!
     </Text>
   )
