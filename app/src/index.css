@@ -274,7 +274,7 @@ justify-content: space-evenly;
 @media screen and (max-width: 991px) {
   .green {
     line-height: inherit;
-    color: inherit;
+    color: var(--color-16773572549573434);
   }
 }
 
