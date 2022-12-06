@@ -261,3 +261,26 @@ justify-content: space-evenly;
   .grid {
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .green {
+  }
+}
+
+.green {
+}
+
+@media screen and (max-width: 991px) {
+  .green {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .green {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .green {
+  }
+}
