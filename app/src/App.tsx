@@ -93,7 +93,11 @@ function App(props: AppPropsType) {
         Responsive
       </Text>
       <CoolDiv />
-      <Text data-ecu="Ysm52JVO0:7">Then double click here!</Text>
+      <Text
+        className="big-space"
+        data-ecu="Ysm52JVO0:7">
+        Then double click here!
+      </Text>
       <DualCoolDivs />
     </>
   )

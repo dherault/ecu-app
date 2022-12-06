@@ -300,3 +300,26 @@ html {
   .bp-order-4 {
   }
 }
+
+.big-space {
+}
+
+@media screen and (min-width: 1280px) {
+  .big-space {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .big-space {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .big-space {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .big-space {
+  }
+}
