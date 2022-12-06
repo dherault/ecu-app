@@ -274,7 +274,7 @@ html {
 
 .bp-order-4 {
   text-align: center;
-  text-decoration: none;
+  text-decoration: inherit;
   color: var(--color-16086423139333728);
 }
 
