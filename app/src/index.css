@@ -243,7 +243,6 @@ justify-content: space-evenly;
   font-style: italic;
   text-align: center;
   line-height: 100%;
-  color: var(--color-9545474973581103);
 }
 
 @media screen and (max-width: 991px) {
