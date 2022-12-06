@@ -334,7 +334,7 @@ html {
 }
 
 .bp-order-5 {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 @media screen and (min-width: 1280px) {
