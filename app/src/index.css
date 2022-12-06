@@ -273,7 +273,7 @@ html {
 }
 
 .bp-order-4 {
-  text-align: center;
+  text-align: justify;
   text-decoration: overline;
   color: var(--color-16086423139333728);
 }
