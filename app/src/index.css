@@ -352,6 +352,8 @@ html {
 
 @media screen and (max-width: 767px) {
   .bp-order-5 {
+    font-family: "Lobster Two", sans-serif;
+    text-decoration: inherit;
     color: var(--color-8737504984386271);
   }
 }
