@@ -351,7 +351,6 @@ html {
   .bp-order-5 {
     align-items: flex-start;
     align-content: stretch;
-    flex-wrap: wrap;
     position: static;
     text-decoration: inherit;
   }
