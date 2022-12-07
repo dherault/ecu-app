@@ -349,6 +349,11 @@ html {
 
 @media screen and (max-width: 991px) {
   .bp-order-5 {
+    display: flex;
+    align-items: center;
+    align-content: stretch;
+    flex-wrap: wrap;
+    position: static;
     text-decoration: inherit;
   }
 }
