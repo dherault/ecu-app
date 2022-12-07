@@ -377,3 +377,26 @@ html {
     color: var(--color-8737504984386271);
   }
 }
+
+.bp-order-6 {
+}
+
+@media screen and (min-width: 1280px) {
+  .bp-order-6 {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .bp-order-6 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bp-order-6 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .bp-order-6 {
+  }
+}
