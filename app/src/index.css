@@ -83,7 +83,7 @@ html {
 .height-overflow {
   max-height: 32px;
   overflow: auto;
-  height: 0function;
+  height: 0;
 }
 
 @media screen and (min-width: 1280px) {
@@ -94,7 +94,6 @@ html {
 
 @media screen and (max-width: 991px) {
   .height-overflow {
-    height: 0function;
     max-height: 32px;
     overflow: auto;
   }
