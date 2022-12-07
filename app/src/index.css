@@ -392,7 +392,7 @@ html {
   .bp-order-6 {
     display: block;
     color: var(--color-9545474973581103);
-    white-space: pre-wrap;
+    white-space: inherit;
     direction: inherit;
   }
 }
