@@ -338,6 +338,7 @@ html {
   align-content: stretch;
   flex-wrap: wrap;
   position: static;
+  align-items: flex-start;
 }
 
 @media screen and (min-width: 1280px) {
