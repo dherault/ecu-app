@@ -393,6 +393,7 @@ html {
     display: block;
     color: var(--color-9545474973581103);
     direction: inherit;
+    white-space: pre-wrap;
   }
 }
 
