@@ -346,7 +346,6 @@ html {
 
 @media screen and (max-width: 991px) {
   .bp-order-5 {
-    font-family: monospace;
     text-decoration: inherit;
   }
 }
