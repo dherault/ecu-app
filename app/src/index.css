@@ -381,8 +381,8 @@ html {
 
 .bp-order-6 {
   display: block;
-  color: var(--color-9545474973581103);
   font-family: cursive;
+  color: var(--color-9545474973581103);
 }
 
 @media screen and (min-width: 1280px) {
