@@ -334,7 +334,7 @@ html {
 }
 
 .bp-order-5 {
-  display: block;
+  display: flex;
   align-items: flex-start;
   align-content: stretch;
   flex-wrap: wrap;
