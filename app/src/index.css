@@ -402,6 +402,10 @@ html {
 @media screen and (max-width: 767px) {
   .bp-order-6 {
     display: flex;
+    font-family: fantasy;
+    color: var(--color-9545474973581103);
+    white-space: inherit;
+    direction: inherit;
   }
 }
 
