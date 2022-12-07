@@ -349,8 +349,10 @@ html {
 
 @media screen and (max-width: 991px) {
   .bp-order-5 {
+    display: block;
     align-items: flex-start;
     align-content: stretch;
+    flex-wrap: wrap;
     position: static;
     text-decoration: inherit;
   }
