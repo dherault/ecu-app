@@ -380,7 +380,7 @@ html {
 }
 
 .bp-order-6 {
-  display: block;
+  display: flex;
   font-family: cursive;
   color: var(--color-9545474973581103);
 }
