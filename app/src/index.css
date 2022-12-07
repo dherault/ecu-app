@@ -335,6 +335,7 @@ html {
 
 .bp-order-5 {
   position: relative;
+  font-style: italic;
 }
 
 @media screen and (min-width: 1280px) {
