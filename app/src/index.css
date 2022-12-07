@@ -334,6 +334,7 @@ html {
 }
 
 .bp-order-5 {
+  position: relative;
 }
 
 @media screen and (min-width: 1280px) {
