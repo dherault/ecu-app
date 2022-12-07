@@ -389,7 +389,7 @@ html {
 
 @media screen and (max-width: 991px) {
   .bp-order-6 {
-    display: flex;
+    display: block;
   }
 }
 
