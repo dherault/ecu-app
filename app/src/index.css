@@ -334,8 +334,8 @@ html {
 }
 
 .bp-order-5 {
+  display: block;
   position: static;
-  display: flex;
 }
 
 @media screen and (min-width: 1280px) {
