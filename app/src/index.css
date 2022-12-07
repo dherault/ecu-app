@@ -336,7 +336,7 @@ html {
 .bp-order-5 {
   display: flex;
   align-content: stretch;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   position: static;
 }
 
