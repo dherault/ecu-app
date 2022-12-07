@@ -94,6 +94,9 @@ html {
 
 @media screen and (max-width: 991px) {
   .height-overflow {
+    height: 0function;
+    max-height: 32px;
+    overflow: auto;
   }
 }
 
