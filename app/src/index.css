@@ -380,7 +380,7 @@ html {
 
 .bp-order-6 {
   display: block;
-  color: var(--color-5883875317731349);
+  color: transparent;
 }
 
 @media screen and (min-width: 1280px) {
