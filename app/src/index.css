@@ -335,10 +335,10 @@ html {
 
 .bp-order-5 {
   display: flex;
+  align-items: flex-start;
   align-content: stretch;
   flex-wrap: wrap;
   position: static;
-  align-items: flex-start;
 }
 
 @media screen and (min-width: 1280px) {
