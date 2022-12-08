@@ -9,13 +9,10 @@ import { ReactNode, useEffect, useState } from 'react'
 import indexCss from '../index.css?inline'
 
 type EcuCommonDecoratorPropsType = {
-  head?: HTMLHeadElement;
+  head: HTMLHeadElement | null;
   children: ReactNode;
 };
 
-// ecu-function-id tZ3fGhfXML
-// ecu-function-id LtjBP2crJG
-// ecu-function-id 5HMdODh2lD
 // ecu-function-id M4XXQQelOS
 function EcuCommonDecorator({
   children,

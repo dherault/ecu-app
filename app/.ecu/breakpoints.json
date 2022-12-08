@@ -22,7 +22,7 @@
     "name": "Tablet",
     "max": 991,
     "min": 768,
-    "base": 768,
+    "base": 788,
     "scale": 1,
     "media": "screen and (max-width: 991px)"
   },
