@@ -1,102 +1,54 @@
-// ecu-file-id eHSY7bEvM
-import { Div, Text } from 'ecu'
+// ecu-file-id 8txd0jvsM
+import { useState } from 'react'
 
-import ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong from './components/ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong'
-/* --
-  * IMPORTS START
--- */
-import DualCoolDivs from './components/DualCoolDivs'
 import CoolDiv from './components/CoolDiv'
+import CoolDaddy from './components/CoolDaddy'
 
-/* --
-  * IMPORTS END
--- */
-/* --
-  * TYPES START
--- */
-type AppPropsType = Record<string, never>;
-/* --
-  * TYPES END
--- */
+const onetwothree = [1, 2, 3]
 
-/* --
-  * EMOJI START
--- */
-/*
-1f300
-*/
-/* --
-  * EMOJI END
--- */
-/* --
-  * DESCRIPTION START
--- */
-/*
-The app, splendid!!
-*/
-/* --
-  * DESCRIPTION END
--- */
+// ecu-function-id 0pmQZMibKj
+function App() {
+  const [count, setCount] = useState(1)
 
-// ecu-function-id 4NVDcovIP
-function App(props: AppPropsType) {
   return (
     <>
-      <Text data-ecu="4NVDcovIP:0">Edit me I'm a Text</Text>
-      <Div
-        className="grid"
-        data-ecu="4NVDcovIP:1">
-        <Text data-ecu="4NVDcovIP:1_0">Edit me I'm a Text 1</Text>
-        <Text
-          className="green-then-blue"
-          data-ecu="4NVDcovIP:1_1">
-          Edit me I'm a Text 2
-        </Text>
-        <Text data-ecu="4NVDcovIP:1_2">Edit me I'm a Text 3</Text>
-      </Div>
-      <Div // ecu-display-name Container
-        data-ecu="4NVDcovIP:2">
-        <Div
-          className="flex-0"
-          data-ecu="4NVDcovIP:2_0">
-          <Text data-ecu="4NVDcovIP:2_0_0">Text 1</Text>
-          <Text data-ecu="4NVDcovIP:2_0_1">Text 2</Text>
-          <Text data-ecu="4NVDcovIP:2_0_2">Text 3</Text>
-          <Text data-ecu="4NVDcovIP:2_0_3">Text 4</Text>
-        </Div>
-        <Text // ecu-display-name Text!
-          className="width"
-          data-ecu="4NVDcovIP:2_1">
-          {':D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D  '}
-        </Text>
-      </Div>
-      <Text // ecu-display-name Red className
-        className="bp-order-6"
-        data-ecu="4NVDcovIP:3">
-        Red className
-      </Text>
-      <CoolDiv // ecu-display-name Some cool div
-      />
-      <Text
-        className="height-overflow"
-        data-ecu="4NVDcovIP:4">
-        {'1\n2\n3\n4\n5\n6'}
-      </Text>
-      <Text data-ecu="4NVDcovIP:5">
-        Emoji className
-      </Text>
-      <ComponentWithAVeryLongNameSoLongSoLongSoLongSoLong // ecu-display-name LongLongLongLongLongLongLongLong
-      />
-      <Text data-ecu="4NVDcovIP:6">
-        Responsive
-      </Text>
+      <div>A div!</div>
+      <p>A p!</p>
+      <button
+        type="button"
+        onClick={() => setCount(x => x + 1)}>
+        {count}
+      </button>
+      <button
+        type="button"
+        onClick={() => console.log('a log')}>
+        A log button!
+      </button>
+      <button
+        type="button"
+        onClick={() => console.warn('a log')}>
+        A warn button!
+      </button>
+      <button
+        type="button"
+        onClick={() => console.error('a log')}>
+        An error button!
+      </button>
+      <button
+        type="button"
+        onClick={() => console.debug('a log')}>
+        A debug button!
+      </button>
       <CoolDiv />
-      <Text
-        className="big-space"
-        data-ecu="4NVDcovIP:7">
-        Then double click here!
-      </Text>
-      <DualCoolDivs />
+      <CoolDaddy>
+        Child
+        <CoolDiv />
+      </CoolDaddy>
+      <div>~</div>
+      {onetwothree.map(x => <div key={x}>~</div>)}
+      <div>~</div>
+      {[...Array(count).keys()].map(x => <div key={x}>{x + 1}</div>)}
+      <div>~</div>
     </>
   )
 }
