@@ -8,10 +8,34 @@ function App() {
     <>
       <div>A div!</div>
       <p>A p!</p>
-      <button type="button">A button!</button>
+      <button
+        type="button"
+        onClick={() => console.log('a log')}
+      >
+        A log button!
+      </button>
+      <button
+        type="button"
+        onClick={() => console.warn('a log')}
+      >
+        A warn button!
+      </button>
+      <button
+        type="button"
+        onClick={() => console.error('a log')}
+      >
+        An error button!
+      </button>
+      <button
+        type="button"
+        onClick={() => console.debug('a log')}
+      >
+        A debug button!
+      </button>
       <CoolDiv2 />
       <CoolDaddy>
         Child
+        <CoolDiv2 />
       </CoolDaddy>
     </>
   )
