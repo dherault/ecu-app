@@ -1,5 +1,5 @@
 {
-  "hash": "bjx0VxxizePikRhASHRNpuYbYgs=",
+  "hash": "na35Qk3N6T6RZSpOXR8NeSwsjNk=",
   "nodes": {
     "eHSY7bEvM": {
       "address": "eHSY7bEvM",
@@ -10,6 +10,21 @@
         "extension": "tsx",
         "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
         "relativePath": "src/App.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "8txd0jvsM": {
+      "address": "8txd0jvsM",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "App2",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/App2.tsx",
+        "relativePath": "src/App2.tsx",
         "code": null,
         "ast": null,
         "description": null,
@@ -76,6 +91,21 @@
         "emoji": null
       }
     },
+    "VDELQ-RW4e": {
+      "address": "VDELQ-RW4e",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "CoolDaddy",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDaddy.tsx",
+        "relativePath": "src/components/CoolDaddy.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
     "Z19dDTvUZ7": {
       "address": "Z19dDTvUZ7",
       "role": "File",
@@ -85,6 +115,21 @@
         "extension": "tsx",
         "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDiv.tsx",
         "relativePath": "src/components/CoolDiv.tsx",
+        "code": null,
+        "ast": null,
+        "description": null,
+        "emoji": null
+      }
+    },
+    "Qv4fyfTQAg": {
+      "address": "Qv4fyfTQAg",
+      "role": "File",
+      "state": null,
+      "payload": {
+        "name": "CoolDiv2",
+        "extension": "tsx",
+        "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDiv2.tsx",
+        "relativePath": "src/components/CoolDiv2.tsx",
         "code": null,
         "ast": null,
         "description": null,
@@ -253,6 +298,18 @@
         "exportType": "None"
       }
     },
+    "0pmQZMibKj": {
+      "address": "0pmQZMibKj",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "App",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/App2.tsx",
+        "relativePath": "src/App2.tsx",
+        "exportType": "None"
+      }
+    },
     "D1Qh_SaV7": {
       "address": "D1Qh_SaV7",
       "role": "Function",
@@ -301,6 +358,18 @@
         "exportType": "None"
       }
     },
+    "aMONYbEQa": {
+      "address": "aMONYbEQa",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "CoolDaddy",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDaddy.tsx",
+        "relativePath": "src/components/CoolDaddy.tsx",
+        "exportType": "None"
+      }
+    },
     "2XqdEjB2d1": {
       "address": "2XqdEjB2d1",
       "role": "Function",
@@ -310,6 +379,18 @@
         "isComponent": true,
         "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDiv.tsx",
         "relativePath": "src/components/CoolDiv.tsx",
+        "exportType": "None"
+      }
+    },
+    "y5pzv5oNcn": {
+      "address": "y5pzv5oNcn",
+      "role": "Function",
+      "state": null,
+      "payload": {
+        "name": "CoolDiv2",
+        "isComponent": true,
+        "path": "/Users/sven/dev/ecu-app/app/src/components/CoolDiv2.tsx",
+        "relativePath": "src/components/CoolDiv2.tsx",
         "exportType": "None"
       }
     },
@@ -401,6 +482,21 @@
       "4NVDcovIP"
     ],
     [
+      "8txd0jvsM",
+      "ImportsFile",
+      "Qv4fyfTQAg"
+    ],
+    [
+      "8txd0jvsM",
+      "ImportsFile",
+      "VDELQ-RW4e"
+    ],
+    [
+      "8txd0jvsM",
+      "DeclaresFunction",
+      "0pmQZMibKj"
+    ],
+    [
       "f579Fz3ehv",
       "ImportsModule",
       "ecu"
@@ -441,6 +537,11 @@
       "PfCdn5c6ue"
     ],
     [
+      "VDELQ-RW4e",
+      "DeclaresFunction",
+      "aMONYbEQa"
+    ],
+    [
       "Z19dDTvUZ7",
       "ImportsModule",
       "ecu"
@@ -449,6 +550,11 @@
       "Z19dDTvUZ7",
       "DeclaresFunction",
       "2XqdEjB2d1"
+    ],
+    [
+      "Qv4fyfTQAg",
+      "DeclaresFunction",
+      "y5pzv5oNcn"
     ],
     [
       "kUdwwZ6Z_c",
