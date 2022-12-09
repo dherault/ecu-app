@@ -11,7 +11,6 @@ function useCustomHook(n: number) {
   return useMemo(() => n * n, [n])
 }
 const onehundredantwentythree = 123
-
 const falsy = false
 
 // ecu-function-id 0pmQZMibKj
@@ -54,9 +53,7 @@ function App() {
   // }, [])
 
   if (falsy) {
-    return (
-      <div>Will you see me?</div>
-    )
+    return <div>Will you see me?</div>
   }
 
   return (
@@ -72,8 +69,7 @@ function App() {
       </div>
       <button
         type="button"
-        onClick={() => setCount(x => x + 1)}
-      >
+        onClick={() => setCount(x => x + 1)}>
         The count is 
         {' '}
         {count}
