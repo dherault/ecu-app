@@ -1,5 +1,5 @@
 // ecu-file-id 8txd0jvsM
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import React, { useCallback, useEffect, useMemo, useState } from 'react'
 
 import CoolDiv from './components/CoolDiv'
 import CoolDaddy from './components/CoolDaddy'
@@ -12,9 +12,11 @@ function useCustomHook(n: number) {
 }
 const onehundredantwentythree = 123
 
+const falsy = false
+
 // ecu-function-id 0pmQZMibKj
 function App() {
-  // const [count, setCount] = useState(1)
+  const [count, setCount] = useState(1)
 
   // const memoedValue = useMemo(() => 123, [])
   // const fromCustomHookValue = useCustomHook(12)
@@ -25,10 +27,19 @@ function App() {
   //   return true
   // }
 
-  // const renderSomeDiv = useCallback(() => count % 2 === 0 && (
-  //   <div>I was rendered by a useCallback on even count</div>
+  // const renderCount = useCallback(() => (
+  //   <div>
+  //     I was rendered by a useCallback:
+  //     {' '}
+  //     {count}
+  //   </div>
   // ), [count])
 
+  // function renderSomething() {
+  //   return (
+  //     <div>I was rendered by a regular function</div>
+  //   )
+  // }
   // const renderSomeDiv2 = useCallback(() => {
   //   if (count % 2) return null
   //   if (count % 2 === 1) return 'I was rendered by a useCallback on some count'
@@ -42,6 +53,12 @@ function App() {
   //   console.log('I\'m within a useEffect')
   // }, [])
 
+  if (falsy) {
+    return (
+      <div>Will you see me?</div>
+    )
+  }
+
   return (
     <>
       <p>A p!</p>
@@ -53,6 +70,14 @@ function App() {
           </div>
         </div>
       </div>
+      <button
+        type="button"
+        onClick={() => setCount(x => x + 1)}
+      >
+        The count is 
+        {' '}
+        {count}
+      </button>
     </>
   )
 }
