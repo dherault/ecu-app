@@ -1,5 +1,5 @@
 {
-  "hash": "vZ+tt/jjkz0aQ5Fx4MlvugwFY7o=",
+  "hash": "kxIfQwunxoByXRCWgtfoUXuhRvA=",
   "nodes": {
     "8txd0jvsM": {
       "address": "8txd0jvsM",
@@ -16,8 +16,8 @@
         "emoji": null
       }
     },
-    "3rUOK-mrF": {
-      "address": "3rUOK-mrF",
+    "gn391h--m": {
+      "address": "gn391h--m",
       "role": "File",
       "state": null,
       "payload": {
@@ -31,8 +31,8 @@
         "emoji": null
       }
     },
-    "wXF-NsIErF": {
-      "address": "wXF-NsIErF",
+    "HN6Sq8irkY": {
+      "address": "HN6Sq8irkY",
       "role": "File",
       "state": null,
       "payload": {
@@ -136,32 +136,20 @@
         "emoji": null
       }
     },
-    "7EylnAleqA": {
-      "address": "7EylnAleqA",
-      "role": "Function",
-      "state": null,
-      "payload": {
-        "name": "useCustomHook",
-        "isComponent": false,
-        "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
-        "relativePath": "src/App.tsx",
-        "exportType": "None"
-      }
-    },
     "0pmQZMibKj": {
       "address": "0pmQZMibKj",
       "role": "Function",
       "state": null,
       "payload": {
         "name": "App",
-        "isComponent": true,
+        "isComponent": false,
         "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
         "relativePath": "src/App.tsx",
         "exportType": "None"
       }
     },
-    "qzibCrgsSZ": {
-      "address": "qzibCrgsSZ",
+    "AqLB-g9Kb": {
+      "address": "AqLB-g9Kb",
       "role": "Function",
       "state": null,
       "payload": {
@@ -172,8 +160,8 @@
         "exportType": "None"
       }
     },
-    "4-dGsOTlH": {
-      "address": "4-dGsOTlH",
+    "KJcRt42Dk": {
+      "address": "KJcRt42Dk",
       "role": "Function",
       "state": null,
       "payload": {
@@ -206,17 +194,12 @@
     [
       "8txd0jvsM",
       "ImportsFile",
-      "wXF-NsIErF"
+      "HN6Sq8irkY"
     ],
     [
       "8txd0jvsM",
       "ImportsFile",
-      "3rUOK-mrF"
-    ],
-    [
-      "8txd0jvsM",
-      "DeclaresFunction",
-      "7EylnAleqA"
+      "gn391h--m"
     ],
     [
       "8txd0jvsM",
@@ -224,14 +207,14 @@
       "0pmQZMibKj"
     ],
     [
-      "3rUOK-mrF",
+      "gn391h--m",
       "DeclaresFunction",
-      "qzibCrgsSZ"
+      "AqLB-g9Kb"
     ],
     [
-      "wXF-NsIErF",
+      "HN6Sq8irkY",
       "DeclaresFunction",
-      "4-dGsOTlH"
+      "KJcRt42Dk"
     ],
     [
       "SjA6BtCvTQ",
