@@ -17,7 +17,7 @@ const onetwo = [1, 2]
 
 // ecu-function-id 0pmQZMibKj
 function App() {
-  // const [count, setCount] = useState(1)
+  const [count, setCount] = useState(1)
 
   // const memoedValue = useMemo(() => 123, [])
   // const fromCustomHookValue = useCustomHook(12)
@@ -63,25 +63,6 @@ function App() {
 
   return (
     <>
-      {/* <div>0</div> */}
-      {/* {false}
-      {true} */}
-      {/* {onetwo.map(x => <div key={x}>{x}</div>)} */}
-      {renderSomething()}
-      {`something ${1}`}
-      {/* <div>3</div> */}
-      {/* {icon}
-      {icon}
-      {icon2}
-      {icon2}
-      Some raw text
-      <div>
-        <div>
-          <div>
-            A div within a div within a div
-          </div>
-        </div>
-      </div>
       <button
         type="button"
         onClick={() => setCount(x => x + 1)}>
@@ -89,7 +70,33 @@ function App() {
         {' '}
         {count}
       </button>
-      <CoolDaddy>
+      {/* <div>0</div> */}
+      {/* {false}
+       {true} */}
+      {/* {onetwo.map(x => <div key={x}>{x}</div>)} */}
+      {/* {renderSomething()}
+       {`something ${1}`} */}
+      {/* <div>3</div> */}
+      {/* {icon}
+       {icon}
+       {icon2}
+       {icon2}
+       Some raw text
+       <div>
+        <div>
+          <div>
+            A div within a div within a div
+          </div>
+        </div>
+       </div>
+       <button
+        type="button"
+        onClick={() => setCount(x => x + 1)}>
+        The count is
+        {' '}
+        {count}
+       </button>
+       <CoolDaddy>
         <div>I'm a child!</div>
         <CoolDaddy>
           <div>I'm a deeper child!</div>
@@ -137,7 +144,7 @@ function App() {
             </CoolDaddy>
           </CoolDaddy>
         </CoolDaddy>
-      </CoolDaddy> */}
+       </CoolDaddy> */}
     </>
   )
 }

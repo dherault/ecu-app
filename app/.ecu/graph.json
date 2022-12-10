@@ -1,5 +1,5 @@
 {
-  "hash": "kxIfQwunxoByXRCWgtfoUXuhRvA=",
+  "hash": "8KglmMdhoR7RvQhBVRqlMpm8G00=",
   "nodes": {
     "8txd0jvsM": {
       "address": "8txd0jvsM",
@@ -16,8 +16,8 @@
         "emoji": null
       }
     },
-    "gn391h--m": {
-      "address": "gn391h--m",
+    "w1kLpDyXj": {
+      "address": "w1kLpDyXj",
       "role": "File",
       "state": null,
       "payload": {
@@ -31,8 +31,8 @@
         "emoji": null
       }
     },
-    "HN6Sq8irkY": {
-      "address": "HN6Sq8irkY",
+    "qvUueJXdxj": {
+      "address": "qvUueJXdxj",
       "role": "File",
       "state": null,
       "payload": {
@@ -142,14 +142,14 @@
       "state": null,
       "payload": {
         "name": "App",
-        "isComponent": false,
+        "isComponent": true,
         "path": "/Users/sven/dev/ecu-app/app/src/App.tsx",
         "relativePath": "src/App.tsx",
         "exportType": "None"
       }
     },
-    "AqLB-g9Kb": {
-      "address": "AqLB-g9Kb",
+    "gSJOfCASoZ": {
+      "address": "gSJOfCASoZ",
       "role": "Function",
       "state": null,
       "payload": {
@@ -160,8 +160,8 @@
         "exportType": "None"
       }
     },
-    "KJcRt42Dk": {
-      "address": "KJcRt42Dk",
+    "rtV7wqfF-": {
+      "address": "rtV7wqfF-",
       "role": "Function",
       "state": null,
       "payload": {
@@ -194,12 +194,12 @@
     [
       "8txd0jvsM",
       "ImportsFile",
-      "HN6Sq8irkY"
+      "qvUueJXdxj"
     ],
     [
       "8txd0jvsM",
       "ImportsFile",
-      "gn391h--m"
+      "w1kLpDyXj"
     ],
     [
       "8txd0jvsM",
@@ -207,14 +207,14 @@
       "0pmQZMibKj"
     ],
     [
-      "gn391h--m",
+      "w1kLpDyXj",
       "DeclaresFunction",
-      "AqLB-g9Kb"
+      "gSJOfCASoZ"
     ],
     [
-      "HN6Sq8irkY",
+      "qvUueJXdxj",
       "DeclaresFunction",
-      "KJcRt42Dk"
+      "rtV7wqfF-"
     ],
     [
       "SjA6BtCvTQ",
