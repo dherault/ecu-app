@@ -1,10 +1,11 @@
 // ecu-file-id 8txd0jvsM
-import React, { useCallback, useEffect, useMemo, useState } from 'react'
+import { useState } from 'react'
+// import React, { useCallback, useEffect, useMemo, useState } from 'react'
 
 import CoolDiv from './components/CoolDiv'
 import CoolDaddy from './components/CoolDaddy'
 
-const onetwo = [1, 2]
+// const onetwo = [1, 2]
 
 // ecu-function-id 7EylnAleqA
 // function useCustomHook(n: number) {
@@ -40,9 +41,13 @@ function App() {
 
   // TODO imported functions
   // TODO arrow function
-  function renderSomething() {
-    return `something ${1}`
-  }
+  // function renderSomething() {
+  //   return `something ${1}`
+  // }
+
+  // function mapSomething(x: number) {
+  //   return <div key={x}>{x}</div>
+  // }
 
   // const renderSomeDiv2 = useCallback(() => {
   //   if (count % 2) return null
@@ -63,20 +68,22 @@ function App() {
 
   return (
     <>
-      <button
+      {/* <button
         type="button"
         onClick={() => setCount(x => x + 1)}>
         The count is
         {' '}
         {count}
-      </button>
-      {/* <div>0</div> */}
+      </button> */}
+      <div>0</div>
+      {/* {onetwo.length ? (<div>true</div>) : (<div>false</div>)} */}
+      {/* {onetwo} */}
+      {/* {onetwo} */}
+      {/* <div>3</div> */}
       {/* {false}
-       {true} */}
-      {/* {onetwo.map(x => <div key={x}>{x}</div>)} */}
+        {true} */}
       {/* {renderSomething()}
        {`something ${1}`} */}
-      {/* <div>3</div> */}
       {/* {icon}
        {icon}
        {icon2}
@@ -145,61 +152,113 @@ function App() {
           </CoolDaddy>
         </CoolDaddy>
        </CoolDaddy> */}
+      <CoolDaddy>
+        <div>
+          I'm a child!
+          {' '}
+          {count}
+        </div>
+        <CoolDaddy>
+          <div>I'm a deeper child!</div>
+        </CoolDaddy>
+        <div>
+          I'm a child!
+          {' '}
+          {count}
+        </div>
+        <CoolDaddy>
+          <div>
+            I'm a child!
+            {' '}
+            {count}
+          </div>
+          <CoolDaddy>
+            <div>I'm a deeper child!</div>
+          </CoolDaddy>
+          <div>
+            I'm a child!
+            {' '}
+            {count}
+          </div>
+          <CoolDaddy>
+            <div>
+              I'm a child!
+              {' '}
+              {count}
+            </div>
+            <CoolDaddy>
+              <div>I'm a deeper child!</div>
+            </CoolDaddy>
+            <div>
+              I'm a child!
+              {' '}
+              {count}
+            </div>
+            <CoolDaddy>
+              <div>
+                I'm a child!
+                {' '}
+                {count}
+              </div>
+              <CoolDaddy>
+                <div>I'm a deeper child!</div>
+              </CoolDaddy>
+              <div>
+                I'm a child!
+                {' '}
+                {count}
+              </div>
+              <CoolDaddy>
+                <div>
+                  I'm a child!
+                  {' '}
+                  {count}
+                </div>
+                <CoolDaddy>
+                  <div>I'm a deeper child!</div>
+                </CoolDaddy>
+                <div>
+                  I'm a child!
+                  {' '}
+                  {count}
+                </div>
+                <CoolDaddy>
+                  <div>
+                    I'm a child!
+                    {' '}
+                    {count}
+                  </div>
+                  <CoolDaddy>
+                    <div>I'm a deeper child!</div>
+                  </CoolDaddy>
+                  <div>
+                    I'm a child!
+                    {' '}
+                    {count}
+                  </div>
+                  <CoolDaddy>
+                    <div>
+                      I'm a child!
+                      {' '}
+                      {count}
+                    </div>
+                    <CoolDaddy>
+                      <div>I'm a deeper child!</div>
+                    </CoolDaddy>
+                    <div>
+                      I'm a child!
+                      {' '}
+                      {count}
+                    </div>
+                  </CoolDaddy>
+                </CoolDaddy>
+              </CoolDaddy>
+            </CoolDaddy>
+          </CoolDaddy>
+        </CoolDaddy>
+      </CoolDaddy>
     </>
   )
 }
-
-/*
-<p>A p!</p>
-      Some raw text
-      <div>
-        <div>
-          <div>
-            A div within a div within a div
-          </div>
-        </div>
-      </div>
-*/
-/*
-  `
-
-*/
-/*
-{renderSomeDiv()}
-      {renderSomeDiv2()}
-
-      <div>
-        Here is a value from a custom hook:
-        {' '}
-        {fromCustomHookValue}
-      </div>
-      <button
-        type="button"
-        onClick={() => setCount(x => x + 1)}
-      >
-        {count}
-      </button>
-      <button
-        type="button"
-        onClick={() => console.log('a log')}
-      >
-        A log button!
-      </button>
-      <button
-        type="button"
-        onClick={logMe}
-      >
-        A function button!
-      </button>
-      <CoolDiv />
-      <CoolDaddy>
-        Child
-        <CoolDiv />
-      </CoolDaddy>
-      <div>~</div>
-      {onetwothree.map(x => <div key={x}>~</div>)}
-      <div>~</div>
-      {[...Array(count).keys()].map(x => <div key={x}>{x + 1}</div>)}
-*/
 
 export default App
