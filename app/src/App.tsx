@@ -21,7 +21,7 @@ const onetwo = [1, 2]
 
 // ecu-function-id 0pmQZMibKj
 function App() {
-  const [count, setCount] = useState(1)
+  const [count, setCount] = useState(0)
 
   // const memoedValue = useMemo(() => 123, [])
   // const fromCustomHookValue = useCustomHook(12)
@@ -97,7 +97,7 @@ function App() {
         {' '}
         {count}
       </button>
-      {onetwo.map(x => <div key={x}>{x}</div>)}
+      {Array(count).fill(true).map((_x, i) => <div key={i}>{i}</div>)}
       <CoolDaddy>
         <div>I'm a child!</div>
         <CoolDiv />
