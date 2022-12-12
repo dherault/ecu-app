@@ -5,8 +5,11 @@ import { useState } from 'react'
 import CoolDiv from './components/CoolDiv'
 import CoolDaddy from './components/CoolDaddy'
 
-// const onetwo = [1, 2]
-
+const onetwo = [1, 2]
+// const someElementArray = [
+//   <div key={1}>1</div>,
+//   <div key={2}><div>2</div></div>,
+// ]
 // ecu-function-id 7EylnAleqA
 // function useCustomHook(n: number) {
 //   return useMemo(() => n * n, [n])
@@ -73,13 +76,37 @@ function App() {
         onClick={() => setCount(x => x + 1)}>
         The count is
         {' '}
-        {count}
+        {count % 2 ? 'odd' : 'even'}
       </button> */}
-      <div>0</div>
+      {/* <div>0</div> */}
       {/* {onetwo.length ? (<div>true</div>) : (<div>false</div>)} */}
-      {/* {onetwo} */}
-      {/* {onetwo} */}
-      {/* <div>3</div> */}
+      {/* {onetwo.filter(x => x % 2 === 0).map(x => (
+        <div key={x}>
+          I'm even:
+          {' '}
+          {x}
+        </div>
+      ))} */}
+      {/* {onetwo}
+      {someElementArray}
+      <div>3</div> */}
+      <button
+        type="button"
+        onClick={() => setCount(x => x + 1)}>
+        The count is
+        {' '}
+        {count}
+      </button>
+      {onetwo.map(x => <div key={x}>{x}</div>)}
+      <CoolDaddy>
+        <div>I'm a child!</div>
+        <CoolDiv />
+        <CoolDiv />
+        {/* <CoolDaddy>
+          <div>I'm a deeper child!</div>
+          <CoolDiv />
+        </CoolDaddy> */}
+      </CoolDaddy>
       {/* {false}
         {true} */}
       {/* {renderSomething()}
@@ -108,51 +135,8 @@ function App() {
         <CoolDaddy>
           <div>I'm a deeper child!</div>
         </CoolDaddy>
-        <div>I'm a child!</div>
-        <CoolDaddy>
-          <div>I'm a child!</div>
-          <CoolDaddy>
-            <div>I'm a deeper child!</div>
-          </CoolDaddy>
-          <div>I'm a child!</div>
-          <CoolDaddy>
-            <div>I'm a child!</div>
-            <CoolDaddy>
-              <div>I'm a deeper child!</div>
-            </CoolDaddy>
-            <div>I'm a child!</div>
-            <CoolDaddy>
-              <div>I'm a child!</div>
-              <CoolDaddy>
-                <div>I'm a deeper child!</div>
-              </CoolDaddy>
-              <div>I'm a child!</div>
-              <CoolDaddy>
-                <div>I'm a child!</div>
-                <CoolDaddy>
-                  <div>I'm a deeper child!</div>
-                </CoolDaddy>
-                <div>I'm a child!</div>
-                <CoolDaddy>
-                  <div>I'm a child!</div>
-                  <CoolDaddy>
-                    <div>I'm a deeper child!</div>
-                  </CoolDaddy>
-                  <div>I'm a child!</div>
-                  <CoolDaddy>
-                    <div>I'm a child!</div>
-                    <CoolDaddy>
-                      <div>I'm a deeper child!</div>
-                    </CoolDaddy>
-                    <div>I'm a child!</div>
-                  </CoolDaddy>
-                </CoolDaddy>
-              </CoolDaddy>
-            </CoolDaddy>
-          </CoolDaddy>
-        </CoolDaddy>
        </CoolDaddy> */}
-      <CoolDaddy>
+      {/* <CoolDaddy>
         <div>
           I'm a child!
           {' '}
@@ -256,7 +240,7 @@ function App() {
             </CoolDaddy>
           </CoolDaddy>
         </CoolDaddy>
-      </CoolDaddy>
+      </CoolDaddy> */}
     </>
   )
 }
