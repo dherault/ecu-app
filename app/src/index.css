@@ -534,3 +534,26 @@ body {
   .gfosfs {
   }
 }
+
+.grgr {
+}
+
+@media screen and (min-width: 1280px) {
+  .grgr {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .grgr {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .grgr {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .grgr {
+  }
+}
