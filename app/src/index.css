@@ -511,3 +511,26 @@ body {
   .fooboaz {
   }
 }
+
+.gfosfs {
+}
+
+@media screen and (min-width: 1280px) {
+  .gfosfs {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .gfosfs {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .gfosfs {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .gfosfs {
+  }
+}
