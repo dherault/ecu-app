@@ -77,7 +77,7 @@ function App() {
         The count is
         {' '}
         {count % 2 ? 'odd' : 'even'}
-      </button> */}
+       </button> */}
       {/* <div>0</div> */}
       {/* {onetwo.length ? (<div>true</div>) : (<div>false</div>)} */}
       {/* {onetwo.filter(x => x % 2 === 0).map(x => (
@@ -86,10 +86,10 @@ function App() {
           {' '}
           {x}
         </div>
-      ))} */}
+       ))} */}
       {/* {onetwo}
-      {someElementArray}
-      <div>3</div> */}
+       {someElementArray}
+       <div>3</div> */}
       <button
         type="button"
         onClick={() => setCount(x => x + 1)}>
@@ -97,7 +97,7 @@ function App() {
         {' '}
         {count}
       </button>
-      {Array(count).fill(true).map((_x, i) => <div key={i}>{i}</div>)}
+      {Array(count).fill(true).map((_x, i) => <CoolDaddy key={i}>{i}</CoolDaddy>)}
       <CoolDaddy>
         <div>I'm a child!</div>
         <CoolDiv />
@@ -105,7 +105,7 @@ function App() {
         {/* <CoolDaddy>
           <div>I'm a deeper child!</div>
           <CoolDiv />
-        </CoolDaddy> */}
+         </CoolDaddy> */}
       </CoolDaddy>
       {/* {false}
         {true} */}
@@ -240,7 +240,7 @@ function App() {
             </CoolDaddy>
           </CoolDaddy>
         </CoolDaddy>
-      </CoolDaddy> */}
+       </CoolDaddy> */}
     </>
   )
 }
