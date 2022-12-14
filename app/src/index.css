@@ -649,3 +649,26 @@ body {
   .foo2 {
   }
 }
+
+.fsfsf {
+}
+
+@media screen and (min-width: 1280px) {
+  .fsfsf {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .fsfsf {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .fsfsf {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .fsfsf {
+  }
+}
