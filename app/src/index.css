@@ -488,3 +488,26 @@ body {
   .foobar {
   }
 }
+
+.fooboaz {
+}
+
+@media screen and (min-width: 1280px) {
+  .fooboaz {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .fooboaz {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .fooboaz {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .fooboaz {
+  }
+}
