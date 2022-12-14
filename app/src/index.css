@@ -465,3 +465,26 @@ body {
   .gogogogogogogo {
   }
 }
+
+.foobar {
+}
+
+@media screen and (min-width: 1280px) {
+  .foobar {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .foobar {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .foobar {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .foobar {
+  }
+}
