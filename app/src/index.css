@@ -672,3 +672,26 @@ body {
   .fsfsf {
   }
 }
+
+.booya {
+}
+
+@media screen and (min-width: 1280px) {
+  .booya {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .booya {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .booya {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .booya {
+  }
+}
