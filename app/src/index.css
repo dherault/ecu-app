@@ -419,3 +419,26 @@ body {
   .bp-order-6 {
   }
 }
+
+.gogogo {
+}
+
+@media screen and (min-width: 1280px) {
+  .gogogo {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .gogogo {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .gogogo {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .gogogo {
+  }
+}
