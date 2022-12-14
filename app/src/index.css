@@ -626,3 +626,26 @@ body {
   .foo {
   }
 }
+
+.foo2 {
+}
+
+@media screen and (min-width: 1280px) {
+  .foo2 {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .foo2 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .foo2 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .foo2 {
+  }
+}
