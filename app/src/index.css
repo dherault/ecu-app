@@ -1106,6 +1106,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .d {
+    justify-content: flex-start;
     display: flex;
   }
 }
