@@ -845,6 +845,7 @@ body {
   padding-top: 4px;
   padding-bottom: 4px;
   color: #ec0e0e;
+  padding-left: 4px;
 }
 
 @media screen and (min-width: 1280px) {
