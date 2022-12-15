@@ -15,7 +15,7 @@ function CoolDaddy({
     <>
       <div className="yyy">Next is a cool child</div>
       {children}
-      <div className="aaa">Previous is a cool child</div>
+      <div>Previous is a cool child</div>
     </>
   )
 }
