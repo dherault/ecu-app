@@ -1095,3 +1095,26 @@ body {
   .c {
   }
 }
+
+.d {
+}
+
+@media screen and (min-width: 1280px) {
+  .d {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .d {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .d {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .d {
+  }
+}
