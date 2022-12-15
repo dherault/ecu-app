@@ -9,7 +9,7 @@
 // ecu-function-id lj9bmEmMw-
 // ecu-file-id vk2xejunrL
 function CoolDiv() {
-  return <div className="green-then-blue">I'm a cool div</div>
+  return <div className="green-then-blue big-space">I'm a cool div</div>
 }
 
 export default CoolDiv
