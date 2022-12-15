@@ -944,3 +944,26 @@ body {
   .super-cool {
   }
 }
+
+.cool-div {
+}
+
+@media screen and (min-width: 1280px) {
+  .cool-div {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .cool-div {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cool-div {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .cool-div {
+  }
+}
