@@ -99,7 +99,7 @@ function App() {
       </button>
       {Array(count).fill(true).map((_x, i) => <CoolDaddy key={i}>{i}</CoolDaddy>)}
       <CoolDaddy>
-        <div className="cool">I'm a child!</div>
+        <div>I'm a child!</div>
         <CoolDiv />
         <CoolDiv />
         {/* <CoolDaddy>
