@@ -752,6 +752,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .yyy {
+    color: var(--color-16086423139333728);
   }
 }
 
