@@ -9,7 +9,7 @@
 // ecu-function-id lj9bmEmMw-
 // ecu-file-id vk2xejunrL
 function CoolDiv() {
-  return <div className="a b">I'm a cool div</div>
+  return <div className="a">I'm a cool div</div>
 }
 
 export default CoolDiv
