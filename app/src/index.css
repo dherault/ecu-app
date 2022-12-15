@@ -185,7 +185,8 @@ body {
 
 @media screen and (max-width: 991px) {
   .green-then-blue {
-    color: var(--color-8636541263509827);
+    display: flex;
+    color: var(--color-8636541263509827) !important;
   }
 }
 
