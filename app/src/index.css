@@ -992,3 +992,26 @@ body {
   .cool-div-2 {
   }
 }
+
+.cool-div-3 {
+}
+
+@media screen and (min-width: 1280px) {
+  .cool-div-3 {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .cool-div-3 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cool-div-3 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .cool-div-3 {
+  }
+}
