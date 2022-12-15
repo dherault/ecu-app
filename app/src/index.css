@@ -185,7 +185,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .green-then-blue {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: flex-end;
     align-items: flex-end;
     display: flex;
