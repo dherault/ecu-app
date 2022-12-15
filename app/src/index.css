@@ -185,6 +185,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .green-then-blue {
+    align-items: flex-end;
     display: flex;
     color: var(--color-8636541263509827) !important;
   }
