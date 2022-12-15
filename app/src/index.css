@@ -1040,3 +1040,26 @@ body {
   .cool-div-4 {
   }
 }
+
+.cool-div-5 {
+}
+
+@media screen and (min-width: 1280px) {
+  .cool-div-5 {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .cool-div-5 {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cool-div-5 {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .cool-div-5 {
+  }
+}
