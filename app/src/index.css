@@ -1031,7 +1031,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .a {
-    justify-content: center !important;
+    justify-content: center;
     display: flex;
   }
 }
