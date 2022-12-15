@@ -838,3 +838,26 @@ body {
   .rrr {
   }
 }
+
+.aaa {
+}
+
+@media screen and (min-width: 1280px) {
+  .aaa {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .aaa {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .aaa {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .aaa {
+  }
+}
