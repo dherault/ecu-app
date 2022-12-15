@@ -891,3 +891,26 @@ body {
   .bbb {
   }
 }
+
+.cool {
+}
+
+@media screen and (min-width: 1280px) {
+  .cool {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .cool {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cool {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .cool {
+  }
+}
