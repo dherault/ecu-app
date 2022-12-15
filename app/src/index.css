@@ -868,3 +868,26 @@ body {
   .aaa {
   }
 }
+
+.bbb {
+}
+
+@media screen and (min-width: 1280px) {
+  .bbb {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .bbb {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bbb {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .bbb {
+  }
+}
