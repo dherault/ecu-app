@@ -825,6 +825,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .rrr {
+    text-align: left;
   }
 }
 
