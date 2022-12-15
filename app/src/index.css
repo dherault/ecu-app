@@ -777,6 +777,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .zzz {
+    text-align: right;
   }
 }
 
