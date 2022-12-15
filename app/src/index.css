@@ -752,7 +752,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .yyy {
-    text-align: left;
+    text-align: center;
     color: var(--color-16086423139333728);
   }
 }
