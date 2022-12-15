@@ -790,3 +790,26 @@ body {
   .zzz {
   }
 }
+
+.ttt {
+}
+
+@media screen and (min-width: 1280px) {
+  .ttt {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .ttt {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .ttt {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .ttt {
+  }
+}
