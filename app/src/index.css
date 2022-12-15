@@ -856,6 +856,11 @@ body {
 @media screen and (max-width: 991px) {
   .aaa {
     margin-top: 0;
+    margin-bottom: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    color: var(--color-16773572549573434);
   }
 }
 
