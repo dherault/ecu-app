@@ -814,3 +814,26 @@ body {
   .ttt {
   }
 }
+
+.rrr {
+}
+
+@media screen and (min-width: 1280px) {
+  .rrr {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .rrr {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .rrr {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .rrr {
+  }
+}
