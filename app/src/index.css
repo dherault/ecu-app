@@ -915,3 +915,26 @@ body {
   .cool {
   }
 }
+
+.super-cool {
+}
+
+@media screen and (min-width: 1280px) {
+  .super-cool {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .super-cool {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .super-cool {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .super-cool {
+  }
+}
