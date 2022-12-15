@@ -185,10 +185,10 @@ body {
 
 @media screen and (max-width: 991px) {
   .green-then-blue {
+    align-items: stretch;
     justify-content: center;
     color: var(--color-8636541263509827) !important;
     flex-direction: row;
-    align-items: flex-end;
     display: flex;
   }
 }
