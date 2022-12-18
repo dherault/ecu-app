@@ -1,8 +1,8 @@
 {
-  "hash": "DrqeI3ajiPshjwlGBzy7ETkak/w=",
+  "hash": "qD3EvudY7+RjVcAFKkBGdtNdneY=",
   "nodes": {
-    "4boGL3kFq": {
-      "address": "4boGL3kFq",
+    "eUKD_dj2T": {
+      "address": "eUKD_dj2T",
       "role": "File",
       "state": null,
       "payload": {
@@ -16,8 +16,8 @@
         "emoji": null
       }
     },
-    "cPUmXtEv90": {
-      "address": "cPUmXtEv90",
+    "elEohJ7kkE": {
+      "address": "elEohJ7kkE",
       "role": "File",
       "state": null,
       "payload": {
@@ -31,8 +31,8 @@
         "emoji": null
       }
     },
-    "8gWXwjyYZG": {
-      "address": "8gWXwjyYZG",
+    "gGJI4KgPna": {
+      "address": "gGJI4KgPna",
       "role": "File",
       "state": null,
       "payload": {
@@ -46,8 +46,8 @@
         "emoji": null
       }
     },
-    "KNLEoIIweO": {
-      "address": "KNLEoIIweO",
+    "xfY3yHLlpq": {
+      "address": "xfY3yHLlpq",
       "role": "File",
       "state": null,
       "payload": {
@@ -61,23 +61,8 @@
         "emoji": null
       }
     },
-    "3nDTbObFXw": {
-      "address": "3nDTbObFXw",
-      "role": "File",
-      "state": null,
-      "payload": {
-        "name": "index",
-        "extension": "css",
-        "path": "/Users/sven/dev/ecu-app/app/src/index.css",
-        "relativePath": "src/index.css",
-        "code": null,
-        "ast": null,
-        "description": null,
-        "emoji": null
-      }
-    },
-    "pMhgbUP8XC": {
-      "address": "pMhgbUP8XC",
+    "92uP3l59YM": {
+      "address": "92uP3l59YM",
       "role": "File",
       "state": null,
       "payload": {
@@ -91,8 +76,8 @@
         "emoji": null
       }
     },
-    "lkp4NOCXUl": {
-      "address": "lkp4NOCXUl",
+    "viRxogpfIr": {
+      "address": "viRxogpfIr",
       "role": "File",
       "state": null,
       "payload": {
@@ -106,8 +91,8 @@
         "emoji": null
       }
     },
-    "eSYyM2Jg2x": {
-      "address": "eSYyM2Jg2x",
+    "bvNP3RKxQm": {
+      "address": "bvNP3RKxQm",
       "role": "File",
       "state": null,
       "payload": {
@@ -121,8 +106,8 @@
         "emoji": null
       }
     },
-    "Ymb0tdzaIa": {
-      "address": "Ymb0tdzaIa",
+    "KaKWrXsS_C": {
+      "address": "KaKWrXsS_C",
       "role": "File",
       "state": null,
       "payload": {
@@ -136,8 +121,8 @@
         "emoji": null
       }
     },
-    "fEEPZO0M04": {
-      "address": "fEEPZO0M04",
+    "uEK8l00QH8": {
+      "address": "uEK8l00QH8",
       "role": "Function",
       "state": null,
       "payload": {
@@ -148,8 +133,8 @@
         "exportType": "None"
       }
     },
-    "tzkywa4_P": {
-      "address": "tzkywa4_P",
+    "G_JLhPPHzl": {
+      "address": "G_JLhPPHzl",
       "role": "Function",
       "state": null,
       "payload": {
@@ -160,8 +145,8 @@
         "exportType": "None"
       }
     },
-    "uROyX3VQa": {
-      "address": "uROyX3VQa",
+    "UXEoknn8gd": {
+      "address": "UXEoknn8gd",
       "role": "Function",
       "state": null,
       "payload": {
@@ -172,8 +157,8 @@
         "exportType": "None"
       }
     },
-    "ttTtgFl8ER": {
-      "address": "ttTtgFl8ER",
+    "ICV3lNMmFU": {
+      "address": "ICV3lNMmFU",
       "role": "Function",
       "state": null,
       "payload": {
@@ -187,67 +172,67 @@
   },
   "edges": [
     [
-      "4boGL3kFq",
+      "eUKD_dj2T",
       "ImportsModule",
       "react"
     ],
     [
-      "4boGL3kFq",
+      "eUKD_dj2T",
       "ImportsFile",
-      "8gWXwjyYZG"
+      "gGJI4KgPna"
     ],
     [
-      "4boGL3kFq",
+      "eUKD_dj2T",
       "ImportsFile",
-      "cPUmXtEv90"
+      "elEohJ7kkE"
     ],
     [
-      "4boGL3kFq",
+      "eUKD_dj2T",
       "DeclaresFunction",
-      "fEEPZO0M04"
+      "uEK8l00QH8"
     ],
     [
-      "cPUmXtEv90",
+      "elEohJ7kkE",
       "DeclaresFunction",
-      "tzkywa4_P"
+      "G_JLhPPHzl"
     ],
     [
-      "8gWXwjyYZG",
+      "gGJI4KgPna",
       "DeclaresFunction",
-      "uROyX3VQa"
+      "UXEoknn8gd"
     ],
     [
-      "KNLEoIIweO",
+      "xfY3yHLlpq",
       "ImportsModule",
       "react"
     ],
     [
-      "KNLEoIIweO",
+      "xfY3yHLlpq",
       "DeclaresFunction",
-      "ttTtgFl8ER"
+      "ICV3lNMmFU"
     ],
     [
-      "pMhgbUP8XC",
+      "92uP3l59YM",
       "ImportsModule",
       "react-dom/client"
     ],
     [
-      "pMhgbUP8XC",
+      "92uP3l59YM",
       "ImportsModule",
       "ecu"
     ],
     [
-      "pMhgbUP8XC",
+      "92uP3l59YM",
       "ImportsFile",
-      "4boGL3kFq"
+      "eUKD_dj2T"
     ],
     [
-      "Ymb0tdzaIa",
+      "KaKWrXsS_C",
       "ImportsModule",
       "vite"
     ],
     [
-      "Ymb0tdzaIa",
+      "KaKWrXsS_C",
       "ImportsModule",
       "@vitejs/plugin-react"
     ]

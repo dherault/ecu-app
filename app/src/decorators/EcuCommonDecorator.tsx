@@ -1,4 +1,4 @@
-// ecu-file-id SjA6BtCvTQ
+// ecu-file-id KNLEoIIweO
 /* --
  * DO NOT DELETE THIS FILE
  * EcuCommonDecorator.tsx is used to decorate any Ecu component
@@ -13,7 +13,7 @@ type EcuCommonDecoratorPropsType = {
   children: ReactNode;
 };
 
-// ecu-function-id M4XXQQelOS
+// ecu-function-id ttTtgFl8ER
 function EcuCommonDecorator({
   children,
   head,

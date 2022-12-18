@@ -1,4 +1,4 @@
-// ecu-file-id 8txd0jvsM
+// ecu-file-id 4boGL3kFq
 import { useState } from 'react'
 // import React, { useCallback, useEffect, useMemo, useState } from 'react'
 
@@ -19,7 +19,7 @@ const onetwo = [1, 2]
 
 // const icon = <div>I'm an icon</div>
 
-// ecu-function-id 0pmQZMibKj
+// ecu-function-id fEEPZO0M04
 function App() {
   const [count, setCount] = useState(0)
 
