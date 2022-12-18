@@ -37,3 +37,26 @@ body {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+.thomas {
+}
+
+@media screen and (min-width: 1280px) {
+  .thomas {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .thomas {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .thomas {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .thomas {
+  }
+}
