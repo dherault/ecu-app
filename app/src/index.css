@@ -63,3 +63,26 @@ body {
   .thomas {
   }
 }
+
+.david {
+}
+
+@media screen and (min-width: 1280px) {
+  .david {
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .david {
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .david {
+  }
+}
+
+@media screen and (max-width: 478px) {
+  .david {
+  }
+}
