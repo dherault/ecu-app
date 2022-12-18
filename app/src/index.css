@@ -48,7 +48,7 @@ body {
 
 @media screen and (max-width: 991px) {
   .thomas {
-    color: transparent;
+    color: #ce1c1c;
     justify-content: center;
     display: flex;
   }
